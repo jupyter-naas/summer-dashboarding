@@ -58,7 +58,7 @@ Dashboards topics :
 
 **Datasources:**
 - Gsheets to create the data model manually
-- (Faker)[https://github.com/joke2k/faker] to generate fake/synthetic data
+- [Faker](https://github.com/joke2k/faker) to generate fake/synthetic data
 
 
 ## How to contribute?
