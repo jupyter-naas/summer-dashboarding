@@ -1,5 +1,4 @@
 # import libraries
-from html.entities import html5
 from setup import read_config
 from components.navbar import get_navbar
 
