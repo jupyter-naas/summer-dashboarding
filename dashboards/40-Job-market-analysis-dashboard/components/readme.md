@@ -4,4 +4,4 @@ The Job market analysis dashboard app is separated into components for easier na
 
 Currently, the component folder contains the following components:
 
-- [components/navbar.py](components/navbar.py)
+- [components/navbar.py](navbar.py)
