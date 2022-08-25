@@ -1,0 +1,793 @@
+ACTIVITY_ID,PUBLISHED_DATE,AUTHOR_NAME,AUTHOR_URL,SUBDESCRIPTION,TITLE,TEXT,CHARACTER_COUNT,TAGS,TAGS_COUNT,EMOJIS,EMOJIS_COUNT,LINKS,LINKS_COUNT,PROFILE_MENTION,COMPANY_MENTION,CONTENT,CONTENT_TITLE,CONTENT_URL,CONTENT_ID,IMAGE_URL,POLL_ID,POLL_QUESTION,POLL_RESULTS,POST_URL,VIEWS,COMMENTS,LIKES,SHARES,ENGAGEMENT_SCORE,DATE_EXTRACT
+6964479657010200576,2022-08-14 07:15:43,naas.ai,https://www.linkedin.com/company/70506391,3 days ago,Nice to be quoted in front of MLflow and and Kubeflow by Ayo Kehinde Samuel!,"Nice to be quoted in front of MLflow and and Kubeflow by Ayo Kehinde Samuel!
+
+We indeed want to provide a lean data infrastructure that adapts to any use case ✅ 
+ #data #infrastructure #lean",187,#data #infrastructure #lean,3,✅,1,,0,Ayo Kehinde Samuel,"mlflow-org, kubeflow",Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6964479657010200576,295,0,1,0,0.003389830508474576,2022-08-18 08:40:14
+6963459681964941313,2022-08-11 11:42:42,naas.ai,https://www.linkedin.com/company/70506391,6 days ago,Learn about the ADEPT method. It can help you bridge the gap between tech and non-tech teams 🤙,"Learn about the ADEPT method. It can help you bridge the gap between tech and non-tech teams 🤙
+
+Thanks Greg Coquillo for sharing ! 
+ #tech #help #framework #method",160,#tech #help #framework #method,4,🤙,1,,0,Greg Coquillo,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6963459681964941313,668,0,7,0,0.010479041916167664,2022-08-18 08:40:14
+6961289378849513472,2022-08-05 11:58:42,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,"In this new era of the data market, companies are looking for capital efficient data teams.","In this new era of the data market, companies are looking for capital efficient data teams.
+
+A must read post from Vin Vashishta.
+ #data #market #datateams",152,#data #market #datateams,3,,0,,0,Vin Vashishta,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6961289378849513472,902,1,2,0,0.0033259423503325942,2022-08-18 08:40:14
+6960995878409015296,2022-08-04 16:32:26,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,Want to learn more on how Naas helps companies like Clue create awesome data products? ,"Want to learn more on how Naas helps companies like Clue create awesome data products? 
+
+Check this article and feel free to connect with Jérémy Ravenel!
+#data #dataproducts #marketing #media #campaign #datascience #automation #analytics #ai #machinelearning",255,#data #dataproducts #marketing #media #campaign #datascience #automation #analytics #ai #machinelearning,10,,0,,0,Jérémy Ravenel,clue-digital-inc,Article,Clue builds innovative data products with Naas,https://www.linkedin.com/pulse/clue-builds-innovative-data-products-naas-naas-ai,,https://media-exp1.licdn.com/dms/image/D4E12AQErLn8LGjs6SQ/article-cover_image-shrink_600_2000/0/1659614715722?e=1666224000&v=beta&t=gB5ffPexMzUAcLJHgT4EgWfR-NMAHh6tcuPSOs-VLcs,,,,https://www.linkedin.com/feed/update/urn:li:activity:6960995878409015296,1137,5,33,0,0.03342128408091469,2022-08-18 08:40:14
+6960927956898570240,2022-08-04 12:02:32,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,The data industry is shifting from building data platforms and pipelines to data products....,"The data industry is shifting from building data platforms and pipelines to data products....
+
+...and that's good news! 
+#data #building #pipeline #platform #dataproducts",167,#data #building #pipeline #platform #dataproducts,5,,0,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6960927956898570240,338,0,3,0,0.008875739644970414,2022-08-18 08:40:14
+6959881411063361538,2022-08-01 14:43:56,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Avery Smith is going to do something crazy. 🤯,"Avery Smith is going to do something crazy. 🤯
+
+30 projects in 30 days. 
+
+Make sure to like this post and subscribe to his Youtube Channel. 
+This man is one of the best data content creators out there ⭐️
+#like #content #projects #data",227,#like #content #projects #data,4,"🤯, ⭐️",2,,0,Avery Smith,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6959881411063361538,440,0,5,0,0.011363636363636364,2022-08-18 08:40:14
+6959621236737859584,2022-07-31 21:30:06,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Did Vin Vashishta just said Jérémy Ravenel inspired his post? ,"Did Vin Vashishta just said Jérémy Ravenel inspired his post? 
+
+😇 ...it looks like he did.
+
+#inspiration #mutualrespect #data",121,#inspiration #mutualrespect #data,3,😇,1,,0,"Vin Vashishta, Jérémy Ravenel",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6959621236737859584,486,0,5,0,0.0102880658436214,2022-08-18 08:40:14
+6959061334348984320,2022-07-30 08:25:15,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,"Google Colab, Hex or Deepnote can be seen as the proprietary version of naas.ai ","Google Colab, Hex or Deepnote can be seen as the proprietary version of naas.ai 
+
+But Naas power ⚡️ goes way beyond notebooks. 
+
+The different added layers: 
+- orchestration/automation
+- connector
+- templates layer
+- data product builder 
+make it a « lean data stack » to « stop building data platform to focus on building data products » 
+
+More content coming soon on the topic 💎
+#opensource #automation #google #building #data #lean #content #buildinpublic",446,#opensource #automation #google #building #data #lean #content #buildinpublic,8,"⚡️, 💎",2,,0,,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6959061334348984320,430,0,5,0,0.0116279069767441,2022-08-18 08:40:14
+6959059383498514432,2022-07-30 08:17:30,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,🙏Thanks Alexis Monville for sharing your use case of Naas. ,"🙏Thanks Alexis Monville for sharing your use case of Naas. 
+
+The LinkedIn data to Notion content calendar is definitely a super powerful template ! 🗓
+
+ #data #linkedin #content #leadership",184,#data #linkedin #content #leadership,4,"🙏, 🗓",2,,0,Alexis Monville,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6959059383498514432,53,0,3,0,0.0566037735849056,2022-08-18 08:40:14
+6959058729711345664,2022-07-30 08:14:54,naas.ai,https://www.linkedin.com/company/70506391,6 days ago,So cool to be mentionned by Ron Itelman as tool he is excited to get into 😉,"So cool to be mentionned by Ron Itelman as tool he is excited to get into 😉
+
+Naas strives to become an all-in-one data platform that enables companies and individuals to build data products from the comfort of their Notebook ✌️
+
+ #data #notebook #dataproduct #knowledge",265,#data #notebook #dataproduct #knowledge,4,"😉, ✌️",2,,0,Ron Itelman,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6959058729711345664,407,0,4,0,0.0098280098280098,2022-08-18 08:40:14
+6957404883226394624,2022-07-25 18:43:06,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,Jérémy got into a really cool conversation with Mehdi about Notebooks 🎙⭐️,"Jérémy got into a really cool conversation with Mehdi about Notebooks 🎙⭐️
+
+They talk about:
+→ the love and hate relationship most people have with Notebooks 
+→ why Naas has been built, inspired by Netflix
+→ how putting the Naas framework helps reducing risks of creating dirty and unusable notebooks
+
+The podcast is only 20min so it's super digestible. 
+
+All the notebook lovers and haters should watch this 🤙
+#people #love #hate #jupyternotebook #podcast #netflix #data #datascience #dataengineering",490,#people #love #hate #jupyternotebook #podcast #netflix #data #datascience #dataengineering,9,"🎙, ⭐️, 🤙",3,,0,"Jérémy Ravenel, Mehdi Ouazza",netflix,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6957404883226394624,329,0,7,0,0.0212765957446808,2022-08-18 08:40:14
+6955423911266160640,2022-07-20 07:31:25,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Great list of handy tools by Zain Kahn ,"Great list of handy tools by Zain Kahn 
+
+Thanks for sharing 🙏
+#tools #productivity",79,#tools #productivity,2,🙏,1,,0,Zain Kahn,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6955423911266160640,471,0,4,0,0.0084925690021231,2022-08-18 08:40:14
+6955420553360904193,2022-07-20 07:18:05,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,This is an amazing post from Paschal Chukwuemeka Amah ,"This is an amazing post from Paschal Chukwuemeka Amah 
+
+He shares the value he sees in what we are building at naas.ai  a data stack where things are delivered in you own terms leveraging open source and collective intelligence from the community 🙏
+
+ #data #opensource #community #naas #intelligence #building #ai",309,#data #opensource #community #naas #intelligence #building #ai,7,🙏,1,,0,Paschal Chukwuemeka  Amah,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6955420553360904193,165,0,2,0,0.0121212121212121,2022-08-18 08:40:14
+6954354978333310976,2022-07-17 08:43:52,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,🙂🌎We received more than 80 applications in 3 days from 30 countries for our « open source dashboarding » internships. ,"🙂🌎We received more than 80 applications in 3 days from 30 countries for our « open source dashboarding » internships. 
+
+And we are committed to give everyone an answer and feedback!
+#opensource #buildinpublic #internships #community",229,#opensource #buildinpublic #internships #community,4,"🙂, 🌎",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6954354978333310976,318,0,3,0,0.0094339622641509,2022-08-18 08:40:14
+6954088732719235072,2022-07-16 15:05:54,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,Naas organization is now registered on Hugging Face,"Naas organization is now registered on Hugging Face
+
+We can now upload models and datasets and share our work with the community. 😇
+
+#nlp #ml #ai #community #share #work",165,#nlp #ml #ai #community #share #work,6,😇,1,,0,,huggingface,Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQFhDJJWwkVZGg/feedshare-shrink_2048_1536/0/1657983953998?e=1661990400&v=beta&t=6YNKi6MzJxzXg1Dzicng0JITQoG_8uvX4L8YCaKhimE,,,,https://www.linkedin.com/feed/update/urn:li:activity:6954088732719235072,727,0,17,0,0.0233837689133425,2022-08-18 08:40:14
+6953275003119271936,2022-07-14 09:12:26,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Get data from Microsoft sharepoint and load it into your notebook with this template 👇,"Get data from Microsoft sharepoint and load it into your notebook with this template 👇
+
+Well done Florent Ravenel 
+
+ #data #microsoft #sharepoint #templates",152,#data #microsoft #sharepoint #templates,4,👇,1,,0,Florent Ravenel,microsoft,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6953275003119271936,262,0,5,0,0.0190839694656488,2022-08-18 08:40:14
+6952902771759063040,2022-07-13 08:33:19,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Mind blowing images from our galaxy ⭐️,"Mind blowing images from our galaxy ⭐️
+
+Thanks NASA Jet Propulsion Laboratory",75,,0,⭐️,1,,0,,jet-propulsion-laboratory,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6952902771759063040,983,0,14,0,0.0142421159715157,2022-08-18 08:40:14
+6950497316952793090,2022-07-06 17:14:54,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,🎉Congrats Alexandre STEVENS for creating this amazing open dashboard using naas.ai + Webflow !! ,"🎉Congrats Alexandre STEVENS for creating this amazing open dashboard using naas.ai + Webflow !! 
+
+This is the first time we see both tool working together....but surely not the last. 
+
+The responsiveness in mobile is amazing.
+
+Check it out.
+👇
+#naas #dasboarding #development #dataproduct",279,#naas #dasboarding #development #dataproduct,4,"🎉, 👇",2,,0,Alexandre STEVENS,"naas-ai, webflow-inc-",Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6950497316952793090,237,1,4,0,0.0210970464135021,2022-08-18 08:40:14
+6950496285690900480,2022-07-06 17:10:48,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,Join us tomorrow to learn how we build data products !! ⚡️⚡️,"Join us tomorrow to learn how we build data products !! ⚡️⚡️
+
+No heavy engineering, just notebook templates bundle together in line with software development best practices 🤙
+
+Will you join?
+#data #engineering #softwaredevelopment #naas #dataproducts  #lowcode",255,#data #engineering #softwaredevelopment #naas #dataproducts #lowcode,6,"⚡️, ⚡️, 🤙",3,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6950496285690900480,198,0,3,0,0.0151515151515151,2022-08-18 08:40:14
+6949344271602753536,2022-07-03 12:53:06,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Open source is ⭐️⭐️⭐️⭐️⭐️,"Open source is ⭐️⭐️⭐️⭐️⭐️
+
+Thanks Eddie Jaoude for the good content you consistently push out there ! 
+ #content #opensource",121,#content #opensource,2,"⭐️, ⭐️, ⭐️, ⭐️, ⭐️",5,,0,Eddie Jaoude,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6949344271602753536,506,2,4,0,0.0118577075098814,2022-08-18 08:40:14
+6943172495990509568,2022-06-16 12:08:40,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Critical thinking and problem solving is very important in data. ,"Critical thinking and problem solving is very important in data. 
+
+It applies to both business and technical decision-maker. 
+The following is a list of the most important things to have in mind 👇
+
+Great post from Tobias Zwingmann
+
+#dataliteracy #learnings #business #data #analytics #datajournalists.",294,#dataliteracy #learnings #business #data #analytics #datajournalists,6,👇,1,,0,Tobias Zwingmann,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6943172495990509568,363,2,3,0,0.0137741046831955,2022-08-18 08:40:14
+6933117841130848256,2022-05-19 18:15:04,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,"Could not agree more, using Notebooks in the cloud is much more powerful 🤗","Could not agree more, using Notebooks in the cloud is much more powerful 🤗
+
+Thanks Caleb Keller for the shout out. 
+
+#cloud #jupyternotebook #templates #naasdrivers #naas #opensource #feedback #buildinpublic",203,#cloud #jupyternotebook #templates #naasdrivers #naas #opensource #feedback #buildinpublic,8,🤗,1,,0,Caleb Keller,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6933117841130848256,322,1,2,0,0.0093167701863354,2022-08-18 08:40:14
+6902302160994861056,2022-02-23 17:24:33,naas.ai,https://www.linkedin.com/company/70506391,5 months ago,"When Thom Ives, Ph.D. the ""Godfather"" of many people in the Data Community is going BOLD on Naas...","When Thom Ives, Ph.D. the ""Godfather"" of many people in the Data Community is going BOLD on Naas...
+
+...our motivation goes ⚡️⚡️⚡️⚡️⚡️
+
+Thanks for this comment Thom.
+
+📍Let's pin this here so we can look back and see!
+#community #motivation #data #comment #people",255,#community #motivation #data #comment #people,5,"⚡️, ⚡️, ⚡️, ⚡️, ⚡️, 📍",6,,0,"Thom Ives, Ph.D.",,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQGU99uM0cKxug/feedshare-shrink_2048_1536/0/1645637073062?e=1660780800&v=beta&t=ftQDx9vVXpgrnxss9RHONPyn3bHHRLREtHqGFugNA90,,,,https://www.linkedin.com/feed/update/urn:li:activity:6902302160994861056,1943,5,22,0,0.0138960370560988,2022-08-18 08:40:14
+6856898500177862656,2021-10-21 10:26:37,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,"Sorry, there was a mistake in the calendar, we will go live at 5 PM Paris time.","Sorry, there was a mistake in the calendar, we will go live at 5 PM Paris time.",79,,0,,0,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6856898500177862656,14,0,0,0,0.0,2022-08-18 08:40:14
+6852664167250440192,2021-10-09 18:00:53,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6852664167250440192,112,0,0,0,0.0,2022-08-18 08:40:14
+6846487255264165888,2021-09-22 16:56:03,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,naas.ai is hosting 99.5% of the world is illiterate. Open Source Office Hours S01E01. Would you like to attend?,"naas.ai is hosting 99.5% of the world is illiterate. Open Source Office Hours S01E01. Would you like to attend?
+
+
+
+#live #opensource #officehours",141,#live #opensource #officehours,3,,0,,0,,,Event,99.5% of the world is illiterate. Open Source Office Hours S01E01,https://www.linkedin.com/events/99-5-oftheworldisilliterate-ope6846486955849592833/,,https://media-exp2.licdn.com/dms/image/D561EAQEhEDSdvNWPIg/event-background-image-shrink_200_800/0/1632329690072?e=1658732400&v=beta&t=FbpZRl7BJ0fd7MffoWLAxzQfEkJBX3ik8Rtse8Bb3DU,,,,https://www.linkedin.com/feed/update/urn:li:activity:6846487255264165888,127,0,2,0,0.0157480314960629,2022-08-18 08:40:14
+6948675435887001600,2022-07-01 16:35:24,naas.ai,https://www.linkedin.com/company/70506391,1 week ago,⚡️Want to know how to build data products from Notebooks? ,"⚡️Want to know how to build data products from Notebooks? 
+
+Join us next Thursday at 5PM CET.",91,,0,⚡️,1,,0,,,Event,Naas Community Call 🤙 2022-07-07,https://www.linkedin.com/events/naascommunitycall-2022-07-076948675432347009024/,,https://media-exp2.licdn.com/dms/image/D4E1EAQEQYB7hSxOC3w/event-background-image-crop_270_480/0/1656693457779?e=1658473200&v=beta&t=gLwyncsO1kjYzvniUHTo5uq1d15ucSjrFTRdH6j58Jc,,,,https://www.linkedin.com/feed/update/urn:li:activity:6948675435887001600,260,0,3,0,0.0115384615384615,2022-08-18 08:40:14
+6946860124556681216,2022-06-26 16:22:00,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,No comment. 👌,No comment. 👌,13,,0,👌,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6946860124556681216,380,0,3,0,0.0078947368421052,2022-08-18 08:40:14
+6945433259858132992,2022-06-22 17:52:09,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,"Most of the people working in data think notebooks are only made for experimentation and convey bad practices, but it's more a question of how you use them.","Most of the people working in data think notebooks are only made for experimentation and convey bad practices, but it's more a question of how you use them.
+
+So if you are curious to learn more about that, and discover how and why we are building a catalog of notebook templates 
+
+→ just join the call 🤙😇
+#opensource #community #datascience #data #analysis #automation #ai",367,#opensource #community #datascience #data #analysis #automation #ai,7,"🤙, 😇",2,,0,,,Event,Naas Community Call 🤙 2022-06-23,https://www.linkedin.com/events/naascommunitycall-2022-06-236945433256490090496/,,https://media-exp2.licdn.com/dms/image/D4E1EAQH3vvL_rfAycQ/event-background-image-crop_270_480/0/1655920327401?e=1658394000&v=beta&t=0QUwr4YdZ3gl4yJVAdF2khO2jljc1S9MMyht72aG2LE,,,,https://www.linkedin.com/feed/update/urn:li:activity:6945433259858132992,255,0,8,0,0.0313725490196078,2022-08-18 08:40:14
+6944613208842227712,2022-06-20 11:33:33,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,Want to use AI to label the sentiment of your comments?,"Want to use AI to label the sentiment of your comments?
+
+Nikolaj Groeneweg just created a template on Naas using Hugging Face 🤗 
+
+Check it out 👇
+ #ai #comment #sentiment #analysis",174,#ai #comment #sentiment #analysis,4,"🤗, 👇",2,,0,Nikolaj Groeneweg,huggingface,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6944613208842227712,803,2,11,0,0.0161892901618929,2022-08-18 08:40:14
+6943185288294760448,2022-06-16 12:59:30,naas.ai,https://www.linkedin.com/company/70506391,2 weeks ago,Wondering how to read a dataframe from your files stored in Amazon Web Services (AWS) S3 ? ,"Wondering how to read a dataframe from your files stored in Amazon Web Services (AWS) S3 ? 
+
+Simple!
+You can do it with this template using Data Wrangler; https://lnkd.in/efts8nuS 
+
+Well done Maxime and Florent
+#aws
+ #cloud #storage #S3bucket #operations #snippet #dataframe #datawrangler",281,#aws #cloud #storage #S3bucket #operations #snippet #dataframe #datawrangler,8,,0,https://lnkd.in/efts8nuS,1,"Maxime Jublou, Florent Ravenel",amazon-web-services,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQGBZwFkHKDxbQ/feedshare-shrink_2048_1536/0/1655384369208?e=1660176000&v=beta&t=8tlF0MD3SNF3StwCgBHk6h7DKRNo0QADI6rxTg1CAnw,,,,https://www.linkedin.com/feed/update/urn:li:activity:6943185288294760448,455,0,9,0,0.0197802197802197,2022-08-18 08:40:14
+6943152697692860416,2022-06-16 10:50:00,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,Do you want to download files in your AWS bucket on your local drive?,"Do you want to download files in your AWS bucket on your local drive?
+
+You can do it with this template in a minute.
+Check it out → https://bit.ly/3xyx73R
+
+Thanks Maxime Jublou and Dinesh Kumar for this time saver.⚡️
+#aws #cloud #storage #S3bucket #operations #snippet #url #template #jupyternotebook #github #technology",314,#aws #cloud #storage #S3bucket #operations #snippet #url #template #jupyternotebook #github #technology,11,⚡️,1,,0,Maxime Jublou,,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQFlQhBAlHrTQQ/feedshare-shrink_2048_1536/0/1655376600146?e=1660176000&v=beta&t=wnF4W-j8rOzmuOnCGE0KS3DlVv-wE1shD8SPldZl8fQ,,,,https://www.linkedin.com/feed/update/urn:li:activity:6943152697692860416,314,0,3,0,0.0095541401273885,2022-08-18 08:40:14
+6943103969527275520,2022-06-16 07:36:22,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,Did you know you can send daily billing notification from your AWS account to Slack using Naas?,"Did you know you can send daily billing notification from your AWS account to Slack using Naas?
+
+AWS billing can be tricky, it's easy to loose track of the money you spend. 
+
+If you don't want to get any surprises at the end of the month, this template will help: https://lnkd.in/eBninnEJ 
+
+Thanks Maxime Jublou for this template!
+If you have any questions, or suggestion to improve it, feel free to comment or directly open an issue on the repository.
+#aws #budget #awsbilling #cloudaccounting #cloudcomputing",502,#aws #budget #awsbilling #cloudaccounting #cloudcomputing,5,,0,https://lnkd.in/eBninnEJ,1,Maxime Jublou,,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQH-NtK5dSqqxQ/feedshare-shrink_2048_1536/0/1655364981448?e=1660176000&v=beta&t=6oo-n5n6TVZREoGr-vVTEXjqzm7Z8lIN17QxOnqPi5w,,,,https://www.linkedin.com/feed/update/urn:li:activity:6943103969527275520,376,0,6,0,0.0159574468085106,2022-08-18 08:40:14
+6942728516627050496,2022-06-15 06:44:27,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,⚡️ We started a challenge this Monday: aggregate all our social media content stats in one place.,"⚡️ We started a challenge this Monday: aggregate all our social media content stats in one place.
+
+To make more fun and relevant, let's also increase the content rhythm by posting 2/3 templates every day and celebrate amazing creators from the community!
+
+If you don't know our data science template repository yet, check it out on GitHub and consider giving us a star 🌟 💚
+
+Stay tuned!  
+#datascience #dataanalysis  #creativity #open #opensource #buildinpublic #socialmedia #data #datamining #community #content
+https://lnkd.in/gQk-2Ct4",528,#datascience #dataanalysis #creativity #open #opensource #buildinpublic #socialmedia #data #datamining #community #content,11,"⚡️, 🌟, 💚",3,https://lnkd.in/gQk-2Ct4,1,,github,Article,"GitHub - jupyter-naas/awesome-notebooks: Ready to use data science templates, organized by tools to jumpstart your projects in minutes. 😎 published by the Naas community.",https://github.com/jupyter-naas/awesome-notebooks,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6942728516627050496,348,0,9,0,0.0258620689655172,2022-08-18 08:40:14
+6942561768913166337,2022-06-14 19:41:52,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,Good read ! ,"Good read ! 
+
+Thanks Andrei Lopatenko for sharing. 
+#data #pytorch #tensorflow",75,#data #pytorch #tensorflow,3,,0,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6942561768913166337,414,1,3,0,0.0096618357487922,2022-08-18 08:40:14
+6942459301701550080,2022-06-14 12:54:42,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,Dashboards do not need to be perfect the first round !! ,"Dashboards do not need to be perfect the first round !! 
+They just need to be good enough to make it to the next round.
+
+Thanks for the wise reminder Gilbert Eijkelenboom
+#dashboard #iteration #naas #data",200,#dashboard #iteration #naas #data,4,,0,,0,Gilbert Eijkelenboom,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6942459301701550080,346,2,3,0,0.0144508670520231,2022-08-18 08:40:14
+6941287766353702912,2022-06-11 07:19:26,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,💎 Brand your charts with your company logo! ,"💎 Brand your charts with your company logo! 
+
+→ Thanks Florent Ravenel for sharing this! 
+The template is available in the post 🤙
+
+#branding #logo #chart #design #dashboard #brand",174,#branding #logo #chart #design #dashboard #brand,6,"💎, 🤙",2,,0,Florent Ravenel,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6941287766353702912,76,0,0,0,0.0,2022-08-18 08:40:14
+6941286581018238976,2022-06-11 07:14:43,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,💚🤙,"💚🤙
+
+Spread the #opensource and #naas love!",40,#opensource #naas,2,"💚, 🤙",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6941286581018238976,64,0,2,0,0.03125,2022-08-18 08:40:14
+6941285308021805056,2022-06-11 07:09:40,naas.ai,https://www.linkedin.com/company/70506391,3 weeks ago,"Rules based approach comes first, and ML can be the cherry on the cake 🍒🎂","Rules based approach comes first, and ML can be the cherry on the cake 🍒🎂
+
+Thanks Serg Masís for sharing this is public!
+🤙
+
+#datascience #rules #ml #data #projects",158,#datascience #rules #ml #data #projects,5,"🍒, 🎂, 🤙",3,,0,Serg Masís,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6941285308021805056,136,0,3,0,0.0220588235294117,2022-08-18 08:40:14
+6940386880890793984,2022-06-08 19:39:38,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,🤙 Nikolaj Groeneweg is putting together something very cool using Naas and the amazing Hugging Face library!!,"🤙 Nikolaj Groeneweg is putting together something very cool using Naas and the amazing Hugging Face library!!
+
+Check out his post!
+
+#machinelearning #sales #ai #marketing #buildinpublic",181,#machinelearning #sales #ai #marketing #buildinpublic,5,🤙,1,,0,Nikolaj Groeneweg,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6940386880890793984,268,0,4,0,0.0149253731343283,2022-08-18 08:40:14
+6940010694893297664,2022-06-07 18:44:48,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Congrats Alok Chilka! ,"Congrats Alok Chilka! 
+🤗 We are all proud your open source work helped in the process of getting this position!
+
+#opensource → #work",129,#opensource #work,2,🤗,1,,0,Alok Chilka,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6940010694893297664,110,0,2,0,0.0181818181818181,2022-08-18 08:40:14
+6938110348990291968,2022-06-02 12:53:31,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Build your company metrics database with naas.ai and Notion ⚡️,"Build your company metrics database with naas.ai and Notion ⚡️
+
+→ Notion as front-end
+→ Naas as back-end 
+
+We have the power !!
+#ai #database #power #metrics #dashboards #reports #jupyternotebook #templates",200,#ai #database #power #metrics #dashboards #reports #jupyternotebook #templates,8,⚡️,1,,0,,"naas-ai, notionhq",Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6938110348990291968,286,0,3,0,0.0104895104895104,2022-08-18 08:40:14
+6937479674285461506,2022-05-31 19:07:26,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Wise words from Eddie Jaoude 🤙,"Wise words from Eddie Jaoude 🤙
+
+#opensource #contribution",55,#opensource #contribution,2,🤙,1,,0,Eddie Jaoude,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6937479674285461506,350,1,3,0,0.0114285714285714,2022-08-18 08:40:14
+6935298396589068289,2022-05-25 18:39:49,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Want to learn how to build and promote data science templates?,"Want to learn how to build and promote data science templates?
+
+Join us tomorrow for our Naas Community Call,
+and let's geek out 🤙
+
+🗓 The idea is to create a template live and publish it to the Naas awesome-notebooks repository.
+If you are curious, just come over. We welcome everybody 💚
+
+#ml #business #team #design #data #community #tech #change #like #nlp #ai #people #datascience",375,#ml #business #team #design #data #community #tech #change #like #nlp #ai #people #datascience,13,"🤙, 🗓, 💚",3,,0,,,Event,Naas Community Call 🤙 2022-05-26,https://www.linkedin.com/events/naascommunitycall-2022-05-266935298393560764416/,,https://media-exp2.licdn.com/dms/image/D4E1EAQF_5hN6kSD2_g/event-background-image-crop_270_480/0/1653503987804?e=1657803600&v=beta&t=57kmkE27dTKPPQXRf_kbcsh2ksW63JpN_Hwglp5fFR4,,,,https://www.linkedin.com/feed/update/urn:li:activity:6935298396589068289,220,0,7,0,0.0318181818181818,2022-08-18 08:40:14
+6935178222980485120,2022-05-25 10:42:17,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,It’s always nice to see your project in a industry mapping 😉,"It’s always nice to see your project in a industry mapping 😉
+
+Thanks Louise for this valuable content.
+
+#devtools #lowcode #datascience #templates #jupyternotebook",159,#devtools #lowcode #datascience #templates #jupyternotebook,5,😉,1,,0,Louise Chevalier,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6935178222980485120,456,0,6,0,0.0131578947368421,2022-08-18 08:40:14
+6934544843733934080,2022-05-23 16:45:28,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Next milestone : 1000 templates?⚡️🚀,"Next milestone : 1000 templates?⚡️🚀
+
+Thanks everyone for the support.
+If you want to contribute, you are welcome!
+
+#community #jupyternotebook #templates #opensource",160,#community #jupyternotebook #templates #opensource,4,"⚡️, 🚀",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6934544843733934080,247,0,4,0,0.0161943319838056,2022-08-18 08:40:14
+6933041366180478977,2022-05-19 13:11:11,naas.ai,https://www.linkedin.com/company/70506391,1 month ago,Amazing work by Megan Lieu using Naas LinkedIn driver and templates to create a powerful data product! ,"Amazing work by Megan Lieu using Naas LinkedIn driver and templates to create a powerful data product! 
+
+Check her project on Github : https://lnkd.in/emqqpJ9u 
+
+With Naas hosted and free JupyterLab instance + low code layer, it becomes very easy to connect to all your tools and turn notebooks into bots, in minutes! 
+⚡️🤗
+#work #data #linkedin #project #github #community #jupyternotebook #templates",394,#work #data #linkedin #project #github #community #jupyternotebook #templates,8,"⚡️, 🤗",2,https://lnkd.in/emqqpJ9u,1,Megan Lieu,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6933041366180478977,178,1,3,0,0.0224719101123595,2022-08-18 08:40:14
+6929816015790895104,2022-05-10 15:34:47,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Open & Collaborative Machine Learning. This is what we 💚💚💚💚,"Open & Collaborative Machine Learning. This is what we 💚💚💚💚
+Congrats Clem Delangue 🤗 and all the Hugging Face. 
+
+We are already have a templates in the Hugging Face folder of Naas awesome-notebooks templates, but there is surely many more to come. 
+
+#machinelearning #opensource #ai",277,#machinelearning #opensource #ai,3,"💚, 💚, 💚, 💚, 🤗",5,,0,Clem Delangue 🤗,huggingface,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6929816015790895104,278,0,3,0,0.0107913669064748,2022-08-18 08:40:14
+6929806237207285760,2022-05-10 14:55:56,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,,"
+Automate LinkedIn posts analysis in your Notion Content Calendar 🗓
+
+→ Access to your LinkedIn content
+Get the list of posts and metrics from your activity.
+
+→ Use Notion Content Calendar
+Send your data into a database, and centralize your content.
+
+→ Automate your analysis with Naas
+Run a bot every day and discover the power of Jupyter notebooks.
+
+The template is now available on this link: https://bit.ly/39RHbg8
+
+Kudos Florent Ravenel 👍⭐️
+#data #linkedin #content #notion #analytics #jupyternotebook #templates",501,#data #linkedin #content #notion #analytics #jupyternotebook #templates,7,"🗓, 👍, ⭐️",3,,0,Florent Ravenel,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6929806237207285760,576,0,6,0,0.0104166666666666,2022-08-18 08:40:14
+6926989097542557696,2022-05-02 20:21:38,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,A major announcement : Pyscript ! ,"A major announcement : Pyscript ! 
+
+Very cool post by Bojan Tunguz, Ph.D. 
+
+
+Thanks Anaconda, Inc. 💚 We are looking forward to build cool templates with it. 
+
+#python #anaconda #html #gamechanger",188,#python #anaconda #html #gamechanger,4,💚,1,,0,"Bojan Tunguz, Ph.D.",anacondainc,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6926989097542557696,825,2,13,0,0.0181818181818181,2022-08-18 08:40:14
+6926876967992487936,2022-05-02 12:56:04,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Building a Product Roadmap is hard.,"Building a Product Roadmap is hard.
+Sharing your success and failure in public, even more 😓
+
+But this is what we do!
+#opensource #community #roadmap #jupyternotebook #templates #building #success",191,#opensource #community #roadmap #jupyternotebook #templates #building #success,7,😓,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6926876967992487936,351,0,4,0,0.0113960113960113,2022-08-18 08:40:14
+6924692129638174720,2022-04-26 12:14:18,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Great reminder ! Data science is much more than coding ✨,"Great reminder ! Data science is much more than coding ✨
+
+Thanks Avery Smith 👍
+
+#datascience #coding",96,#datascience #coding,2,"✨, 👍",2,,0,Avery Smith,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6924692129638174720,1273,4,21,0,0.0196386488609583,2022-08-18 08:40:14
+6924444059210055680,2022-04-25 19:48:33,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,« Open source is eating software faster than software is eating the world » 💚🌍,"« Open source is eating software faster than software is eating the world » 💚🌍
+
+ #opensource #software",100,#opensource #software,2,"💚, 🌍",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6924444059210055680,174,0,4,0,0.0229885057471264,2022-08-18 08:40:14
+6923564451501625344,2022-04-23 09:33:18,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,🤙 Thanks Tony Campmans for sharing about naas templates on LinkedIn. ,"🤙 Thanks Tony Campmans for sharing about naas templates on LinkedIn. 
+
+Growing your network is key to success!
+
+It's awesome to have you in the community.
+#datascience #community #linkedin #success #network",201,#datascience #community #linkedin #success #network,5,🤙,1,,0,Tony Campmans,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6923564451501625344,199,1,4,0,0.0251256281407035,2022-08-18 08:40:14
+6923562469156122624,2022-04-23 09:25:26,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,💰 Thanks Vincent Lacomme for sharing our approach on Naas low-code python templates for Finance. ,"💰 Thanks Vincent Lacomme for sharing our approach on Naas low-code python templates for Finance. 
+
+Finance is indeed one of our key domains focus. 
+
+There is so much to be done to embed data science and automation in financial processes often done manually in #excel. 
+
+#datascience #finance #automation #python #lowcode #templates",325,#excel #datascience #finance #automation #python #lowcode #templates,7,💰,1,,0,Vincent Lacomme,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6923562469156122624,394,1,5,0,0.015228426395939,2022-08-18 08:40:14
+6923560023440691200,2022-04-23 09:15:43,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,"🔥Great debate this week on Damien Benveniste, PhD's post about using Notebooks in production. ","🔥Great debate this week on Damien Benveniste, PhD's post about using Notebooks in production. 
+
+The philosophy behind naas.ai is to run Notebooks in production by seeing them as logic gates. 
+
+It means you need to respect a clean & reproducible framework (input/model/output).
+This is why all of our templates respect this structure: 
+
+If you press ⏯ and run all the cells at once, it just works.
+
+Thanks Anshuman Pandey for the mention ⚡️🤙
+#jupyternotebook #framework #naaslife #datascience #machinelearning #ai #automation #productionoptimization",538,#jupyternotebook #framework #naaslife #datascience #machinelearning #ai #automation #productionoptimization,8,"🔥, ⏯, ⚡️, 🤙",4,,0,"Damien Benveniste, PhD, Anshuman Pandey 🏖",naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6923560023440691200,212,0,3,0,0.0141509433962264,2022-08-18 08:40:14
+6922605783889162240,2022-04-20 18:03:54,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,"Do you know the ""Vollet effect""? It's when Philip Vollet talks about your project without saying anything...","Do you know the ""Vollet effect""? It's when Philip Vollet talks about your project without saying anything...
+
+...and you suddently see your global metrics rising up 👍📈
+
+Thanks Philip for the shout out. 
+
+Open Source love team forever 💚⚡️🤙
+#team #love #project #opensource #naaslife #jupyternotebook #templates",302,#team #love #project #opensource #naaslife #jupyternotebook #templates,7,"👍, 📈, 💚, ⚡️, 🤙",5,,0,"Philip Vollet, Philip Vollet",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6922605783889162240,584,0,6,0,0.0102739726027397,2022-08-18 08:40:14
+6922143455284535296,2022-04-19 11:26:46,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,📊 How to consolidate your social media data in one dashboard?,"📊 How to consolidate your social media data in one dashboard?
+
+This is the problem our amazing community members Alok Chilka, Riddhi Deshpande, Megha Gupta have worked on using Naas framework.
+
+Congratulations guys you are opening the doors to new territories for cross social media data analysis !
+
+
+ #data #community #socialmedia #community #dataanalysis",349,#data #community #socialmedia #community #dataanalysis,5,📊,1,,0,"Alok Chilka, Riddhi Deshpande, Megha Gupta",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6922143455284535296,229,1,5,0,0.0262008733624454,2022-08-18 08:40:14
+6920705248453955584,2022-04-15 12:11:51,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Do you know Nikolaj Groeneweg? He is one of the amazing data science template creator at naas.ai,"Do you know Nikolaj Groeneweg? He is one of the amazing data science template creator at naas.ai
+
+He has an incredible background in tech. 
+
+Yesterday, after our community call, he bundled some LinkedIn templates to create his own weekly report.
+
+Pretty cool 🤙⚡️
+
+#datascience #ai #tech #templates #community #linkedin #jupyternotebook #naaslife",337,#datascience #ai #tech #templates #community #linkedin #jupyternotebook #naaslife,8,"🤙, ⚡️",2,,0,Nikolaj Groeneweg,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920705248453955584,507,0,7,0,0.0138067061143984,2022-08-18 08:40:14
+6920414379226132480,2022-04-14 16:56:03,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Dataframes just got way more powerful in Naas thanks to D-tale !! ,"Dataframes just got way more powerful in Naas thanks to D-tale !! 
+
+- View a high number of rows
+- Filter, sort, pivot...
+- Create charts and generate code to further integrate into your notebook !!
+
+ Support this post from Maxime Jublou and the work of Minura Punchihewa with a like or comment ⚡️👍💚",293,,0,"⚡️, 👍, 💚",3,,0,"Maxime Jublou, Minura Punchihewa",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920414379226132480,366,0,9,0,0.0245901639344262,2022-08-18 08:40:14
+6920412318698790912,2022-04-14 16:47:51,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,Very cool community call today 🤙 Thanks everyone for joining and presenting. ,"Very cool community call today 🤙 Thanks everyone for joining and presenting. 
+
+See you in 2 weeks with more templates, more GitHub Issues and PR, more ideas on how to make data science accessible to anyone 🌎
+
+Let's do it!
+#opensource #datascience #templates #community #jupyternotebook",280,#opensource #datascience #templates #community #jupyternotebook,5,"🤙, 🌎",2,,0,,github,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQEHoQtunKm09A/feedshare-shrink_2048_1536/0/1649954870118?e=1660176000&v=beta&t=3abBcJlqBRnFgajGPQ2D78xpgghpu_mEucKpD0auBYs,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920412318698790912,583,0,11,0,0.0188679245283018,2022-08-18 08:40:14
+6920355583082606592,2022-04-14 13:02:24,naas.ai,https://www.linkedin.com/company/70506391,2 months ago,🌎 People are currently using naas.ai from:,"🌎 People are currently using naas.ai from:
+
+ 🇫🇷 France : Paris, Marseille, Bordeaux
+ 🇪🇹 Ethiopia: Addis Ababa
+ 🇮🇳 India: Shimla
+ 🇯🇵 Japan: Taito 
+
+→ Join them to schedule notebooks +more in a 100% faithful Project Jupyter (lab) env, for free, in the cloud! 
+#opensource #community",272,#opensource #community,2,🌎,1,,0,,project-jupyter,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQGNRNoXRqDVzg/feedshare-shrink_2048_1536/0/1649941343488?e=1660176000&v=beta&t=3LWZSE9xLhpiUSFDMedtoE7kvNA592hrAuIJV7TLzBY,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920355583082606592,709,0,12,0,0.0169252468265162,2022-08-18 08:40:14
+6920339642496016384,2022-04-14 11:59:04,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,If you are wondering what chart you should use for your data project : check out this very useful resource shared by Arockia Liborious ,"If you are wondering what chart you should use for your data project : check out this very useful resource shared by Arockia Liborious 
+
+📊😉
+ #data #project #datavisualization #charts",179,#data #project #datavisualization #charts,4,"📊, 😉",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920339642496016384,464,0,6,0,0.0129310344827586,2022-08-18 08:40:14
+6920077262344081409,2022-04-13 18:36:28,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,⚡️Join us tomorrow ! A lot of cool stuff coming up. ,"⚡️Join us tomorrow ! A lot of cool stuff coming up. 
+
+Virus free 😷
++ Spread the open source love 💚
+#opensource #datascience #jupyternotebook",136,#opensource #datascience #jupyternotebook,3,"⚡️, 😷, 💚",3,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920077262344081409,423,0,6,0,0.0141843971631205,2022-08-18 08:40:14
+6919358254917582848,2022-04-11 18:59:23,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,Let's start the week with a cool new Naas template from Pooja Srivastava,"Let's start the week with a cool new Naas template from Pooja Srivastava
+
+It generates Google Sheets rows for new items in Notion database. 
+
+Did you know that ?👇
+Notion users = 20 million
+Google Sheets users = 2 billion",214,,0,👇,1,,0,Pooja Srivastava,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6919358254917582848,376,0,4,0,0.0106382978723404,2022-08-18 08:40:14
+6917003563617443840,2022-04-05 07:02:41,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,"Good post from Valentin Goulet, if you want to follow your content performance on social media, you need to understand the trends.","Good post from Valentin Goulet, if you want to follow your content performance on social media, you need to understand the trends.
+
+Not go post by post. 
+
+→ Is the trend growing? 🟢
+→ Is the trend stagnating? 🟠
+
+You can build this kind of analysis with this template: https://lnkd.in/g_rKm5Mv
+
+Right now it gives you only the curated dataframe but adding charts for trends is good idea for enhancement.
+
+Thanks Valentin! 
+#data #socialmedia #content #datascience #naaslife #opensource #jupyternotebook #templates",499,#data #socialmedia #content #datascience #naaslife #opensource #jupyternotebook #templates,8,"🟢, 🟠",2,https://lnkd.in/g_rKm5Mv,1,"Valentin Goulet, Valentin Goulet",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6917003563617443840,443,0,4,0,0.0090293453724604,2022-08-18 08:40:14
+6916795535806935040,2022-04-04 17:16:03,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,"⏰ When you are scheduling your notebooks in Naas, this is what happens:","⏰ When you are scheduling your notebooks in Naas, this is what happens:
+
+1) A copy of the notebook you are working on is sent to the production folder.
+2) A “cron” task is registered in the Naas manager to know when to run it.
+
+Then, the whole notebook will be executed.
+
+#naaslife #tips #opensource #questions #buildinpublic #python #jupyternotebook",343,#naaslife #tips #opensource #questions #buildinpublic #python #jupyternotebook,7,⏰,1,,0,,,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQEhskmX-yvuBQ/feedshare-shrink_2048_1536/0/1649092562153?e=1660176000&v=beta&t=kwWSk10oXfsaJkSpUKF-Ir4utu_xMpUFp5zuMrP-fGQ,,,,https://www.linkedin.com/feed/update/urn:li:activity:6916795535806935040,726,2,11,0,0.0179063360881542,2022-08-18 08:40:14
+6915973622922690560,2022-04-02 10:50:04,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,Do you know SCOTT TAYLOR - The Data Whisperer?,"Do you know SCOTT TAYLOR - The Data Whisperer?
+
+His talks on data are fun and instructive. He is inspiring us a lot at naas.ai 
+
+He speaks the truth about the current situation in most companies regarding data management: 😅
+
+This one is short but so true 👇
+
+It’s not an I.T. responsability to manage data, it’s also a business critical mission🚨
+
+ #business #data #informationmanagement",375,#business #data #informationmanagement,3,"😅, 👇, 🚨",3,,0,SCOTT TAYLOR - The Data Whisperer,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6915973622922690560,251,0,6,0,0.0239043824701195,2022-08-18 08:40:14
+6915213090804436992,2022-03-31 08:27:59,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,⭐️  We are going live in 5h for Naas Community Call on Zoom and LinkedIn! ,"⭐️  We are going live in 5h for Naas Community Call on Zoom and LinkedIn! 
+Here is what we are planning to talk about, but feel free to come and ask questions!  ⬇️  
+
+
+⚡️ What's new?
+Jeremy met Peter Wang the CEO of Anaconda, Inc : the most popular Jupyter Notebook distribution. 
+→ We want to ear your thoughts on how you would like to see the 2 projects collaborate.
+
+🔥 What's hot?
+There is new templates ready to be build the community. We will deep dive on the list and on the contribution process. 
+→ It became very simple now, you just need to focus on the beauty of your code. 
+
+💚 What's next?
+Jeremy and Florent will demo how you can build simple data products using Naas templates and Notion. 
+
+It's going to be fun. 
+
+So feel free to join on this link :https://lnkd.in/gDkYeDcC
+
+or follow us here on LinkedIn live and ask questions in the comment! 
+
+See you in few hours. 
+✌️
+#data #community #linkedin #live #opensource #buildinginpublic #naaslife #jupyternotebook #templates #lowcode",972,#data #community #linkedin #live #opensource #buildinginpublic #naaslife #jupyternotebook #templates #lowcode,10,"⭐️, ⬇️, ⚡️, 🔥, 💚, ✌️",6,https://lnkd.in/gDkYeDcC,1,,,Video (native),,,urn:li:digitalmediaAsset:C4D24AQGWDY9S_woDkg,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6915213090804436992,534,0,10,0,0.0187265917602996,2022-08-18 08:40:14
+6914867447158231040,2022-03-30 09:34:31,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,Do you know Cassie Kozyrkov? Cassie is Head of Decision Intelligence of Google. Her work keeps inspiring us in the building of naas.ai ,"Do you know Cassie Kozyrkov? Cassie is Head of Decision Intelligence of Google. Her work keeps inspiring us in the building of naas.ai 
+
+If you want to learn more about AI and have fun, she created this course called ""Making Friends With Machine Learning"".
+
+It's the ultimate course to educate AI beginners and amuse AI experts for free on Youtube. 
+
+Decision intelligence is an engineering discipline that augments data science with theory from social science, decision theory, and managerial science.
+
+Take some time to watch her videos. You will not regret it. 
+
+https://lnkd.in/d9bKJ-3R
+#technology #datascience #decisionintelligence #google #engineering #opensource #naaslife #buildinginpublic #machinelearning #ai #work #science",723,#technology #datascience #decisionintelligence #google #engineering #opensource #naaslife #buildinginpublic #machinelearning #ai #work #science,12,,0,https://lnkd.in/d9bKJ-3R,1,Cassie Kozyrkov,,Article,The best AI course you’ve ever watched,https://kozyrkov.medium.com/the-best-ai-course-youve-ever-watched-c15e0a0bbb0a,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQHqhe78CEcpMA/articleshare-shrink_800/0/1656162885916?e=1657803600&v=beta&t=Pv6XlNIn0Au4HGgZlOZa3Iher-KZCpHvsHcjBHRO5AI,,,,https://www.linkedin.com/feed/update/urn:li:activity:6914867447158231040,1947,4,24,0,0.0143810991268618,2022-08-18 08:40:14
+6913955113611001856,2022-03-27 21:09:14,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,This is huge 🌦,This is huge 🌦,14,,0,🌦,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6913955113611001856,279,0,2,0,0.007168458781362,2022-08-18 08:40:14
+6913914128763932672,2022-03-27 18:26:22,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,The market is booming.,"The market is booming.
+
+You must follow Joseph Jacks  if you want to learn about how #opensource  is the solving the biggest challenges of our time ⚡️🌍🙏",150,#opensource,1,"⚡️, 🌍, 🙏",3,,0,Joseph Jacks,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6913914128763932672,437,0,3,0,0.0068649885583524,2022-08-18 08:40:14
+6912742037284933632,2022-03-24 12:48:54,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,🔑 🚦 Did you check our latest roadmap update? ,"🔑 🚦 Did you check our latest roadmap update? 
+We believe templates are the key to build algorithmic decision making. 
+= decision making assisted by AI. 
+
+It should as easy as traffic lights to choose where to focus when it comes to decision making. 
+🔴 → Red: ""something is wrong, move your a** and do more X""
+🟠 → Orange: ""you are borderline, don't lower your efforts on Y""
+🟢 → Green: ""you are doing great, keep pushing on Z""
+
+But we are not there yet. 
+Join our community slack with the link in the first comment and let's build this together! 
+
+#python #opensource #datascience #jupyternotebook #66daysofdata #100daysofcode #buildinpublic #ai #nlp #machinelearning #decisionscience #community",681,#python #opensource #datascience #jupyternotebook #66daysofdata #100daysofcode #buildinpublic #ai #nlp #machinelearning #decisionscience #community,12,"🔑, 🚦, 🔴, 🟠, 🟢",5,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6912742037284933632,353,5,5,0,0.0283286118980169,2022-08-18 08:40:14
+6910851228222595072,2022-03-19 07:35:30,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,"“At the highest level of abstraction, even sales and marketing folks should be able to understand your code.  That's the mark of a true master”","“At the highest level of abstraction, even sales and marketing folks should be able to understand your code.  That's the mark of a true master”
+
+Beautifully said Matthew Sharp, that’s what we also believe, and why we are trying to build the most elegant low-code formulas to:
+- send scripts to production
+- connect to the tools you work with 
+With only one line of code 🤙
+
+
+ #marketing #sales #datascience #jupyternotebook #abstraction #code #opensource #buildinpiblic #naaslife",470,#marketing #sales #datascience #jupyternotebook #abstraction #code #opensource #buildinpiblic #naaslife,9,🤙,1,,0,Matthew Sharp,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6910851228222595072,512,0,7,0,0.013671875,2022-08-18 08:40:14
+6910497848832778240,2022-03-18 08:11:17,naas.ai,https://www.linkedin.com/company/70506391,3 months ago,"""You can certainly automate part of your daily tasks and you don't even know it!""","""You can certainly automate part of your daily tasks and you don't even know it!""
+
+Glad to be on your list along with Microsoft Power Platform, Integromat and Notion 💚 
+
+Thanks Valentin Goulet
+#microsoft #notion #integromat #automation #python #jupyternotebook #power",262,#microsoft #notion #integromat #automation #python #jupyternotebook #power,7,💚,1,,0,Valentin Goulet,"microsoft-power-platform-saddamk206, make-hq, notionhq",Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6910497848832778240,498,2,5,0,0.0140562248995983,2022-08-18 08:40:14
+6909940213733625856,2022-03-16 19:15:27,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,"🔴  We are going live tomorrow, on a mission to empower awesome data science templates creators! ⚡️","🔴  We are going live tomorrow, on a mission to empower awesome data science templates creators! ⚡️
+
+Anyone is welcome to come and contribute 
+ 
+Thanks for the support !
+#datascience #community #opensource #buildinpublic 
+https://lnkd.in/gWNTjNPH",239,#datascience #community #opensource #buildinpublic,4,"🔴, ⚡️",2,https://lnkd.in/gWNTjNPH,1,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6909940213733625856,232,1,1,0,0.0086206896551724,2022-08-18 08:40:14
+6909929770684223488,2022-03-16 18:33:57,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,As a reminder 👇,"As a reminder 👇
+
+Business first, tech second. 
+
+Thanks ;) 
+#business #tech #datascience",82,#business #tech #datascience,3,👇,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6909929770684223488,702,0,14,0,0.0199430199430199,2022-08-18 08:40:14
+6908829455939190784,2022-03-13 17:41:42,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Integrated MLAI + naas.ai = ⚡️💚,"Integrated MLAI + naas.ai = ⚡️💚
+
+Thanks Thom Ives, Ph.D. for the warm welcome. 
+
+If you want to contribute with open source data science templates, join us on Slack 
+ #datascience #opensource #buildinginpublic #ai",208,#datascience #opensource #buildinginpublic #ai,4,"⚡️, 💚",2,,0,"Thom Ives, Ph.D.",naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6908829455939190784,1264,3,17,0,0.0158227848101265,2022-08-18 08:40:14
+6908445503269273600,2022-03-12 16:16:00,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Having an infinite mindset is a must in today's world. 🌎🌱,"Having an infinite mindset is a must in today's world. 🌎🌱
+
+#foodforthoughts #saturdayvibes #content #mindset 
+cc Simon Sinek thanks for the refreshing content you create.",167,#foodforthoughts #saturdayvibes #content #mindset,4,"🌎, 🌱",2,,0,Simon Sinek,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6908445503269273600,208,0,2,0,0.0096153846153846,2022-08-18 08:40:14
+6908337535932882944,2022-03-12 09:06:59,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,"What the decision-makers need, by Allie K. Miller","What the decision-makers need, by Allie K. Miller
+
+Very good design tips for the data insights creator👌
+
+ #data #design #opensource #datascience #naaslife",150,#data #design #opensource #datascience #naaslife,5,👌,1,,0,Allie K. Miller,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6908337535932882944,82,0,1,0,0.0121951219512195,2022-08-18 08:40:14
+6904852376642048000,2022-03-02 18:18:12,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Guilty of messy notebook templates? That's ok...😅 ,"Guilty of messy notebook templates? That's ok...😅 
+
+Naas framework can help ⚡️
+
+#opensource #framework #naaslife #buildinginpublic",126,#opensource #framework #naaslife #buildinginpublic,4,"😅, ⚡️",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6904852376642048000,232,0,1,0,0.0043103448275862,2022-08-18 08:40:14
+6904408505571246080,2022-03-01 12:54:25,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Very good post from Ashish Patel on 20 open datasets from Data Science Projects. ,"Very good post from Ashish Patel on 20 open datasets from Data Science Projects. 
+
+If you want to do open data projects with us as open source contributors,  let us know 🙏
+
+#buildinginpublic #opensource #datascience #projects",221,#buildinginpublic #opensource #datascience #projects,4,🙏,1,,0,Ashish Patel,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6904408505571246080,627,0,8,0,0.0127591706539074,2022-08-18 08:40:14
+6904190851564621824,2022-02-28 22:29:32,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6904190851564621824,56,0,1,0,0.0178571428571428,2022-08-18 08:40:14
+6904156741336993792,2022-02-28 20:14:00,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6904156741336993792,208,0,2,0,0.0096153846153846,2022-08-18 08:40:14
+6902088684133347328,2022-02-23 03:16:16,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,👌Glad to have you in the club Alok Chilka ,"👌Glad to have you in the club Alok Chilka 
+
+#opensource #contributor #datascience #templates #jupyternotebook #naaslife",117,#opensource #contributor #datascience #templates #jupyternotebook #naaslife,6,👌,1,,0,Alok Chilka,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6902088684133347328,319,1,4,0,0.0156739811912225,2022-08-18 08:40:14
+6901805376216424448,2022-02-22 08:30:31,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Is your company stuck in Industry 3.0? ,"Is your company stuck in Industry 3.0? 
+
+→ It's time to move on, go beyond automation and cost-cutting, it's about scaling human work, for better decisions and actions. 
+
+#work #automation",184,#work #automation,2,,0,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6901805376216424448,207,0,3,0,0.0144927536231884,2022-08-18 08:40:14
+6901279898070081536,2022-02-20 21:42:27,naas.ai,https://www.linkedin.com/company/70506391,4 months ago,Time to go bold 😎,"Time to go bold 😎
+
+If you are a data scientist, join us to create awesome templates and grow in public.  
+
+If you are not a data scientist, try out the templates to become 10x more productive thanks to data science.
+
+#DataScience #lowcode #templates #buildinpublic #opensource",270,#DataScience #lowcode #templates #buildinpublic #opensource,5,😎,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6901279898070081536,250,0,3,0,0.012,2022-08-18 08:40:14
+6899108864919261184,2022-02-14 21:55:32,naas.ai,https://www.linkedin.com/company/70506391,5 months ago,"Unbelievable indeed. 😇 +120k views, +750 likes, +90 likes. ","Unbelievable indeed. 😇 +120k views, +750 likes, +90 likes. 
+
+Thanks for the warm support. 
+A blog article with what Jérémy Ravenel learned from Netflix meetings is coming soon.
+
+→ Stay tuned 🚨
+#netflix #jupyternotebook #templates #buildinpublic #opensource #community",261,#netflix #jupyternotebook #templates #buildinpublic #opensource #community,6,"😇, 🚨",2,,0,Jérémy Ravenel,netflix,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6899108864919261184,165,0,5,0,0.0303030303030303,2022-08-18 08:40:14
+6890025972754710529,2022-01-20 20:23:22,naas.ai,https://www.linkedin.com/company/70506391,5 months ago,Congrats Arun K C! We are happy to have you in the community 😇✅,"Congrats Arun K C! We are happy to have you in the community 😇✅
+
+Let’s make #opensource the way to grow together. 
+
+#buildinpublic #community",137,#opensource #buildinpublic #community,3,"😇, ✅",2,,0,Arun K C,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6890025972754710529,484,1,9,0,0.0206611570247933,2022-08-18 08:40:14
+6889525902896705536,2022-01-19 11:16:16,naas.ai,https://www.linkedin.com/company/70506391,6 months ago,So nice to see how people can describe Naas in a few words 😇 ,"So nice to see how people can describe Naas in a few words 😇 
+
+Thanks a lot ACM IEM !
+
+#feedback #shoutouts #buildinpublic #naaslife",128,#feedback #shoutouts #buildinpublic #naaslife,4,😇,1,,0,,acm-iem,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6889525902896705536,278,0,2,0,0.0071942446043165,2022-08-18 08:40:14
+6888957553083056128,2022-01-17 21:37:51,naas.ai,https://www.linkedin.com/company/70506391,6 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6888957553083056128,218,0,3,0,0.0137614678899082,2022-08-18 08:40:14
+6883493329863098368,2022-01-02 19:44:58,naas.ai,https://www.linkedin.com/company/70506391,6 months ago,Happy 2022! ,"Happy 2022! 
+Year of Collaboration 🙏
+
+https://lnkd.in/g34n9t3k",59,,0,🙏,1,https://lnkd.in/g34n9t3k,1,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6883493329863098368,244,0,0,0,0.0,2022-08-18 08:40:14
+6875710024002482176,2021-12-12 08:16:54,naas.ai,https://www.linkedin.com/company/70506391,7 months ago,Let’s make open source the way to grow 🌍💪,"Let’s make open source the way to grow 🌍💪
+
+#opensource #community #buildinpublic",78,#opensource #community #buildinpublic,3,"🌍, 💪",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6875710024002482176,287,2,6,0,0.0278745644599303,2022-08-18 08:40:14
+6874140956761952256,2021-12-08 00:21:59,naas.ai,https://www.linkedin.com/company/70506391,7 months ago,Our Open Source Contributor program is ready.,"Our Open Source Contributor program is ready.
+
+First cohort will be name the « Pionneers » 💪🌍
+
+Let’s make #opensource the way to grow!",130,#opensource,1,"💪, 🌍",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6874140956761952256,319,0,4,0,0.012539184952978,2022-08-18 08:40:14
+6860501940997103616,2021-10-31 09:05:24,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501940997103616,196,0,3,0,0.0153061224489795,2022-08-18 08:40:14
+6860501783043801088,2021-10-31 09:04:47,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501783043801088,179,0,2,0,0.0111731843575419,2022-08-18 08:40:14
+6860501679515815936,2021-10-31 09:04:22,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501679515815936,178,0,1,0,0.0056179775280898,2022-08-18 08:40:14
+6860501611555516416,2021-10-31 09:04:06,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501611555516416,202,1,4,0,0.0247524752475247,2022-08-18 08:40:14
+6860501577728450560,2021-10-31 09:03:58,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501577728450560,192,0,2,0,0.0104166666666666,2022-08-18 08:40:14
+6860501444324413440,2021-10-31 09:03:26,naas.ai,https://www.linkedin.com/company/70506391,8 months ago,Nice article! Totally in the vibe of naas.ai to deliver data products directly from notebooks 💚👌,"Nice article! Totally in the vibe of naas.ai to deliver data products directly from notebooks 💚👌
+
+ #data #ai #notebook #product",125,#data #ai #notebook #product,4,"💚, 👌",2,,0,,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6860501444324413440,217,0,5,0,0.0230414746543778,2022-08-18 08:40:14
+6859195571824050176,2021-10-27 18:34:21,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,"Tomorrow, we are going live to talk about Plotly  open source charts library + how Naas low-code drivers can help to create and deliver them faster!","Tomorrow, we are going live to talk about Plotly  open source charts library + how Naas low-code drivers can help to create and deliver them faster!
+
+Join us on this Live or directly on Zoom 👉 https://lnkd.in/eMJpdG9p
+
+#opensource #charts #live #officehours #chat #communitybuilding #buildinginpublic #python #lowcodedevelopment",324,#opensource #charts #live #officehours #chat #communitybuilding #buildinginpublic #python #lowcodedevelopment,9,👉,1,https://lnkd.in/eMJpdG9p,1,,,Video (native),,,urn:li:digitalmediaAsset:C4D24AQH6ZX_YAHoBGQ,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6859195571824050176,298,6,11,0,0.0570469798657718,2022-08-18 08:40:14
+6857573383102722049,2021-10-23 07:08:22,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6857573383102722049,141,0,2,0,0.0141843971631205,2022-08-18 08:40:14
+6857227324031684608,2021-10-22 08:13:15,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6857227324031684608,299,0,7,0,0.0234113712374581,2022-08-18 08:40:14
+6856933666904514560,2021-10-21 12:46:21,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6856933666904514560,39,0,1,0,0.0256410256410256,2022-08-18 08:40:14
+6856931345084641280,2021-10-21 12:37:08,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,📊 Data storytelling is the practice of building a narrative around data and visualizations to impact decision-making. Today let's talk about how to leverage the Plotly opensource charts library to address different business use cases. 💚 ,"📊 Data storytelling is the practice of building a narrative around data and visualizations to impact decision-making. Today let's talk about how to leverage the Plotly opensource charts library to address different business use cases. 💚 
+
+#data #python #datastorytelling #live #contribution #opensource",300,#data #python #datastorytelling #live #contribution #opensource,6,"📊, 💚",2,,0,,,Video (native),,,urn:li:digitalmediaAsset:C4D24AQG_AZH5fK1e2w,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6856931345084641280,499,25,11,0,0.0721442885771543,2022-08-18 08:40:14
+6856564030572777473,2021-10-20 12:17:33,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,Want to become a ⚡️ Naas Open Source Contributor ⚡️? ,"Want to become a ⚡️ Naas Open Source Contributor ⚡️? 
+
+🚀🚀 We are rolling out a new way to work with you.
+
+This form will help us create a tailor-fit proposal so you can help and benefit from Naas Open Source project 💚🚀.
+
+Looking forward to hearing from you!
+
+#contributions #opensource #project #forms #work #help #learning #growing 
+https://lnkd.in/gmTabb3i",349,#contributions #opensource #project #forms #work #help #learning #growing,8,"⚡️, ⚡️, 🚀, 🚀, 💚, 🚀",6,https://lnkd.in/gmTabb3i,1,,,Article,Naas Open Source Contributor Program,https://form.typeform.com/to/jdls9qZf,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQH139znSEwEMw/articleshare-shrink_800/0/1657188898724?e=1657803600&v=beta&t=Psa9Zh5IwX72v2NmPvwScLf9AfikhrzITON4gC5J2_8,,,,https://www.linkedin.com/feed/update/urn:li:activity:6856564030572777473,232,1,5,0,0.0258620689655172,2022-08-18 08:40:14
+6856324706048512000,2021-10-19 20:26:34,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,naas.ai is hosting 🌍💻 Open Source Office Hours #3 - Live Stream. Would you like to attend?,"naas.ai is hosting 🌍💻 Open Source Office Hours #3 - Live Stream. Would you like to attend?
+
+We will talk about how to make ""business-ready"" notebook templates with Plotly !
+
+#business #opensource #charts #plotly #datavizualization",226,#business #opensource #charts #plotly #datavizualization,5,"🌍, 💻",2,,0,,plotly,Event,🌍💻 Open Source Office Hours #3 - Live Stream,https://www.linkedin.com/events/opensourceofficehours-3-livestr6856324161959194624/,,https://media-exp2.licdn.com/dms/image/D4E24AQGv5gPFemf1Rg/video-liveannouncement-shrink_800_450/0/1634675062722?e=1657803600&v=beta&t=E_wioZvRzIAXHnqYcZ1FTDiJOcqs-I2G2cOguHk1a1w,,,,https://www.linkedin.com/feed/update/urn:li:activity:6856324706048512000,282,0,3,0,0.0106382978723404,2022-08-18 08:40:14
+6854876333131079680,2021-10-15 20:31:15,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,"Hello Google, nice to meet you 👋","Hello Google, nice to meet you 👋
+
+
+#jupyter #naas #document #impact #data #opensource #buildinpublic",97,#jupyter #naas #document #impact #data #opensource #buildinpublic,7,👋,1,,0,,,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQFFAB6jiXHroA/feedshare-shrink_2048_1536/0/1634329872301?e=1660176000&v=beta&t=uTkeZXbIbZFPc-O2erwZb24bHsNq1BdTIWp2MfMf7KE,,,,https://www.linkedin.com/feed/update/urn:li:activity:6854876333131079680,521,0,7,0,0.0134357005758157,2022-08-18 08:40:14
+6854421248521461760,2021-10-14 14:22:54,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,We are going live in 35min :) ,"We are going live in 35min :) 
+
+https://lnkd.in/g4sVSz2S",54,,0,,0,https://lnkd.in/g4sVSz2S,1,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6854421248521461760,85,2,4,0,0.0705882352941176,2022-08-18 08:40:14
+6854414637442715648,2021-10-14 13:56:38,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Video (native),,,urn:li:digitalmediaAsset:C4D24AQEwjceE-PUJzg,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6854414637442715648,1218,33,14,0,0.0385878489326765,2022-08-18 08:40:14
+6854107877238444032,2021-10-13 17:37:41,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,Good watch 👇,"Good watch 👇
+
+https://lnkd.in/gJTyKxx
+
+#opensource #watch",53,#opensource #watch,2,👇,1,https://lnkd.in/gJTyKxx,1,,,Video (external),The Rise Of Open-Source Software,https://www.youtube.com/watch?v=SpeDK1TPbew,,https://media-exp2.licdn.com/dms/image/sync/C4E27AQEcsM22zQgKdQ/articleshare-shrink_800/0/1656503886378?e=1657803600&v=beta&t=Qm-ZvqW5ed6BIss_DlcGCYDFNH3UrV-g_Ovl6jYy9vc,,,,https://www.linkedin.com/feed/update/urn:li:activity:6854107877238444032,97,0,0,0,0.0,2022-08-18 08:40:14
+6854107308587278336,2021-10-13 17:35:25,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,This poll is going to help us for the Live Streams 👍⚡️ Thanks for your vote!,"This poll is going to help us for the Live Streams 👍⚡️ Thanks for your vote!
+
+#vote #contribute #opensource #liveevent #linkedin #data #automation #ai #naas",154,#vote #contribute #opensource #liveevent #linkedin #data #automation #ai #naas,9,"👍, ⚡️",2,,0,,,Poll,,,,,6.854107305953247e+18,What are the topics are you the most interested in regarding Open Source (OS)?,"{'The origin of OS': 0, 'The path to OS contributor': 0, 'The benefits of OS for you': 0, 'The benefits of OS for society': 0}",https://www.linkedin.com/feed/update/urn:li:activity:6854107308587278336,38,0,1,0,0.0263157894736842,2022-08-18 08:40:14
+6854101445172580352,2021-10-13 17:12:07,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,"Hey Linkedin!!! Tomorrow we are hosting ""🌍💻 Open Source Office Hours #2 - Live Stream"". Would you like to attend?","Hey Linkedin!!! Tomorrow we are hosting ""🌍💻 Open Source Office Hours #2 - Live Stream"". Would you like to attend?
+
+It's the first try on LinkedIn live (we just got accepted) 😅🔴
+
+We are going to cover why the principles behind open source are changing our world.  
+
+...And why you should care!
+
+Join us 😉
+#opensource #linkedin #live #data #github",336,#opensource #linkedin #live #data #github,5,"🌍, 💻, 😅, 🔴, 😉",5,,0,,,Event,🌍💻 Open Source Office Hours #2 - Live Stream,https://www.linkedin.com/events/opensourceofficehours-2-livestr6854100276656279552/,,https://media-exp2.licdn.com/dms/image/D4D24AQEqAy4Ed2JhYQ/video-liveannouncement-shrink_800_450/0/1634145163428?e=1657803600&v=beta&t=jACicDRhP-jEi3h4sP001o5iCgJqNjGSSwhJ2D_qR34,,,,https://www.linkedin.com/feed/update/urn:li:activity:6854101445172580352,73,0,3,0,0.0410958904109589,2022-08-18 08:40:14
+6853733382434775040,2021-10-12 16:49:34,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,🧬 Data Value Chain is about the story behind the data. ,"🧬 Data Value Chain is about the story behind the data. 
+
+Jérémy Ravenel made a talk about it last week at GAMES Consort 
+...and the replay is now available for everyone on Youtube. 
+
+#learning #growing #sharing #data #information #knowledge #wisdom #value #tech #business #buildinpublic #opensource #naas #notebooks",310,#learning #growing #sharing #data #information #knowledge #wisdom #value #tech #business #buildinpublic #opensource #naas #notebooks,14,🧬,1,,0,Jérémy Ravenel,gamesconsort,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6853733382434775040,138,0,5,0,0.036231884057971,2022-08-18 08:40:14
+6852870822399488000,2021-10-10 07:42:04,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6852870822399488000,110,0,1,0,0.009090909090909,2022-08-18 08:40:14
+6851984378852208640,2021-10-07 20:59:39,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6851984378852208640,173,0,5,0,0.0289017341040462,2022-08-18 08:40:14
+6851625362577858561,2021-10-06 21:13:03,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6851625362577858561,232,0,3,0,0.0129310344827586,2022-08-18 08:40:14
+6851553258327150592,2021-10-06 16:26:32,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,What are you doing this Friday? Next Tuesday?,"What are you doing this Friday? Next Tuesday?
+
+Join the talks about Data value chain and strategy with Jérémy hosted by GAMES Consort !
+
+#talk #data #startegy #games #valuechain #opensource #naas #buildinpublic #sharing #knowledge",226,#talk #data #startegy #games #valuechain #opensource #naas #buildinpublic #sharing #knowledge,10,,0,,0,Jérémy Ravenel,gamesconsort,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6851553258327150592,352,3,10,0,0.0369318181818181,2022-08-18 08:40:14
+6851384432977428480,2021-10-06 05:15:41,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,🗓Note: there will be no Open Source Office Hours this week because our team will attend to Scale TransformX conference.,"🗓Note: there will be no Open Source Office Hours this week because our team will attend to Scale TransformX conference.
+
+
+We will come back on the 14th to talk about GitHub workflow!
+
+
+Event coming soon on LinkedIn.
+Stay tuned. ✌️
+ #opensource #team #linkedin #event #ai #github",270,#opensource #team #linkedin #event #ai #github,6,"🗓, ✌️",2,,0,,github,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6851384432977428480,213,1,2,0,0.0140845070422535,2022-08-18 08:40:14
+6850886729394728962,2021-10-04 20:17:59,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6850886729394728962,142,0,2,0,0.0140845070422535,2022-08-18 08:40:14
+6850696651905089536,2021-10-04 07:42:41,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6850696651905089536,156,0,3,0,0.0192307692307692,2022-08-18 08:40:14
+6850696564999102466,2021-10-04 07:42:20,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6850696564999102466,73,0,1,0,0.0136986301369863,2022-08-18 08:40:14
+6850696461987012608,2021-10-04 07:41:56,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,✨Weekly progress update:,"✨Weekly progress update:
+
+- Prepared a content backlog based on awesome-notebooks ✅
+- Defined OKR Q4 for the team ⚡️
+- Launched Office Hours with community 💚
+
+Read the rest here:
+ https://lnkd.in/gDTkC5bZ 
+
+#opensource #buildinpublic",224,#opensource #buildinpublic,2,"✨, ✅, ⚡️, 💚",4,https://lnkd.in/gDTkC5bZ,1,,,Article,"naas.ai's progress update - October 4th, 2021 | Frontier",https://frontier.pioneer.app/posts/0eb15717-naas-ai-progress-update-october-4th-2021,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6850696461987012608,90,0,1,0,0.0111111111111111,2022-08-18 08:40:14
+6850099200819109888,2021-10-02 16:08:38,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6850099200819109888,130,0,5,0,0.0384615384615384,2022-08-18 08:40:14
+6849351620287983616,2021-09-30 14:38:01,naas.ai,https://www.linkedin.com/company/70506391,9 months ago,The session will start in 20min ! ,"The session will start in 20min ! 
+
+→ See you there ⚡️⚡️⚡️: https://lnkd.in/gvp8Q3Sj",82,,0,"⚡️, ⚡️, ⚡️",3,https://lnkd.in/gvp8Q3Sj,1,,,Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQENGT6SeNn9Pg/feedshare-shrink_2048_1536/0/1633012680480?e=1660176000&v=beta&t=3JjTWouF8-W9WsP_vmbsYKflsGIdjOuBNXb1EI6ZrqI,,,,https://www.linkedin.com/feed/update/urn:li:activity:6849351620287983616,54,0,2,0,0.037037037037037,2022-08-18 08:40:14
+6843827291869601792,2021-09-15 08:46:18,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,Thanks for the shout out Kelly ! 🙏,"Thanks for the shout out Kelly ! 🙏
+→ You got it 100%!
+
+Let's spread the Open Source Love 💚
+#opensource #sharing #caring #contribution #templates #awesome #notebooks",160,#opensource #sharing #caring #contribution #templates #awesome #notebooks,7,"🙏, 💚",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6843827291869601792,101,1,3,0,0.0396039603960396,2022-08-18 08:40:14
+6843826714540433408,2021-09-15 08:44:00,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,"💚 💔 Do you like notebooks? They can be messy sometimes, right?","💚 💔 Do you like notebooks? They can be messy sometimes, right?
+
+In this post, Jérémy Ravenel explains the pain points with notebooks and how we intend to solve them with www.naas.ai and the 
+community.
+
+Thanks a lot for the support.
+
+#opensource #buildinpublic #notebooks #templates #framework #naas",292,#opensource #buildinpublic #notebooks #templates #framework #naas,6,"💚, 💔",2,,0,Jérémy Ravenel,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6843826714540433408,58,0,1,0,0.0172413793103448,2022-08-18 08:40:14
+6840550753682255873,2021-09-06 07:46:30,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,"The number 1 problem that prevents organizations to get the most of technology, is going from idea to production (aka live solutions).","The number 1 problem that prevents organizations to get the most of technology, is going from idea to production (aka live solutions).
+
+👉Can you guess what the number 2 problem is?
+
+⚡️Most business people don't understand what it means...
+
+And here's what's crazy...Naas adds the ability to push Jupyter notebooks - the most popular medium to build data projects - to production, to create simple end-to-end solutions that:
+
+1) show that it's possible, 
+
+2) create a foundation to build impactful tools.
+
+#data #business #technology #people #projects #idea #production #datascience #artificialintelligence #marketing #design",612,#data #business #technology #people #projects #idea #production #datascience #artificialintelligence #marketing #design,11,"👉, ⚡️",2,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6840550753682255873,100,0,1,0,0.01,2022-08-18 08:40:14
+6840549918394998784,2021-09-06 07:43:11,naas.ai,https://www.linkedin.com/company/70506391,10 months ago,🌟 Weekly progress update on Pionner.app :,"🌟 Weekly progress update on Pionner.app :
+
+- Launched 3rd newsletter: https://bit.ly/3g3Bv2Y
+- Published contribution tutorial: https://bit.ly/3n6IDzN
+- Finishing mini-courses on Jupyter+Python
+
+👉Read the rest here:
+ https://lnkd.in/gX6cyvGN 
+
+#opensource #buildinpublic",261,#opensource #buildinpublic,2,"🌟, 👉",2,https://lnkd.in/gX6cyvGN,1,,,Article,What's New?,https://bit.ly/3g3Bv2Y,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6840549918394998784,351,1,2,0,0.0085470085470085,2022-08-18 08:40:14
+6838381984142753792,2021-08-31 08:08:36,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,Interesting article about Data engineering discussed during a Live organized Joe Reis 🤓 yesterday. ,"Interesting article about Data engineering discussed during a Live organized Joe Reis 🤓 yesterday. 
+
+👉Takeaway: Data Engineers should not build your dashboard, but teach you how to do it yourself!
+
+Empowering business users with best practices from experts is key!
+
+#dataengineering #dataengineer #futureofwork #datamodeling #datamanagement #datascience #technology #analytics 
+
+https://lnkd.in/gyJKvGdX",395,#dataengineering #dataengineer #futureofwork #datamodeling #datamanagement #datascience #technology #analytics,8,"🤓, 👉",2,https://lnkd.in/gyJKvGdX,1,Joe Reis 🤓,,Article,From Data Driven to Driving Data— The dysfunctions of Data Engineering,https://medium.com/@mrtrustworthy/from-data-driven-to-driving-data-the-dysfunctions-of-data-engineering-34c34496ed8e,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQGcWKqV-LoHuQ/articleshare-shrink_800/0/1656721475436?e=1657803600&v=beta&t=HkpF61XC6OCU8oTeNxDEOSZthvF4_fS7cGXOPq_HwWU,,,,https://www.linkedin.com/feed/update/urn:li:activity:6838381984142753792,331,0,3,0,0.0090634441087613,2022-08-18 08:40:14
+6838014823054372864,2021-08-30 07:49:37,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,👉Weekly progress update on @pioneerdotapp:,"👉Weekly progress update on @pioneerdotapp:
+
+- Validated local install on windows + Notion templates 
+- Recorded video on ""How to contribute to Naas?""
+- Validated new contributions on Pandas and NLP
+
+👇Read the rest here:
+#windows #nlp #innovation #video #design #buildinpublic #opensource
+ https://lnkd.in/gdgMggNj",305,#windows #nlp #innovation #video #design #buildinpublic #opensource,7,"👉, 👇",2,https://lnkd.in/gdgMggNj,1,,,Article,"naas.ai's progress update - August 30th, 2021 | Frontier",https://frontier.pioneer.app/posts/b3a3ad96-naas-ai-progress-update-august-30th-2021,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6838014823054372864,154,0,2,0,0.0129870129870129,2022-08-18 08:40:14
+6832944886707298304,2021-08-16 08:03:30,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,Weekly progress update on Pioneer:,"Weekly progress update on Pioneer:
+
+- Launched Official Product Newsletter: https://bit.ly/3g3Bv2Y
+- Review contributions on Notion/Reddit/Hubspot
+- Launched the Credit API project with the core team
+
+More details👇
+ https://lnkd.in/gwhU-wXp 
+
+#opensource #buildinpublic",260,#opensource #buildinpublic,2,👇,1,https://lnkd.in/gwhU-wXp,1,,,Article,What's New?,https://bit.ly/3g3Bv2Y,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQHQKCn3S4-UiQ/articleshare-shrink_800/0/1656487564320?e=1657803600&v=beta&t=cEN5EADNFQ0wISszaOozcNmThKDDAp-U9R15YmZAfWE,,,,https://www.linkedin.com/feed/update/urn:li:activity:6832944886707298304,168,0,2,0,0.0119047619047619,2022-08-18 08:40:14
+6830552966559363072,2021-08-09 17:38:52,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,Interesting #share ,"Interesting #share 
+
+#ai #data #building #africa",46,#share #ai #data #building #africa,5,,0,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6830552966559363072,182,0,3,0,0.0164835164835164,2022-08-18 08:40:14
+6830406899654127616,2021-08-09 07:58:27,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,"🤙 For the past 2 months, we compete in the Pioneer Tournament and track our progress weekly, below is our last update:","🤙 For the past 2 months, we compete in the Pioneer Tournament and track our progress weekly, below is our last update:
+
+- Started documenting our journey in writing
+- Made calls with opensource contributors to review their work
+- Refined our product KPIs targets for Q3 
+
+👉 Read the rest here: https://lnkd.in/gKREDExr
+
+#buildinpublic #opensource #naas",344,#buildinpublic #opensource #naas,3,"🤙, 👉",2,https://lnkd.in/gKREDExr,1,,,Article,"naas.ai's progress update - August 9th, 2021 | Frontier",https://frontier.pioneer.app/posts/cb071416-naas-ai-progress-update-august-9th-2021,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6830406899654127616,299,1,5,0,0.020066889632107,2022-08-18 08:40:14
+6829073232402894849,2021-08-05 15:38:56,naas.ai,https://www.linkedin.com/company/70506391,11 months ago,“Just give me that smile” 😃,“Just give me that smile” 😃,27,,0,😃,1,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6829073232402894849,143,0,0,0,0.0,2022-08-18 08:40:14
+6825859471626121216,2021-07-27 18:48:36,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,Want to learn how a #DataScientist plays with his #LinkedIn data? ,"Want to learn how a #DataScientist plays with his #LinkedIn data? 
+📺 Watch the replay of our talk with the amazing Mark Freeman II
+
+👉 In this video, Mark is sharing his analysis on a notebook, you can access it with the link in the comment! 
+
+Cheers :)
+#socialmedia #linkedin #datamining #datascience #humans #machines #behaviour #datacentric #ai #machinelearning #datacommunity #datageeks #naas #naastalks
+
+https://lnkd.in/gfyPSEe",423,#DataScientist #LinkedIn #socialmedia #linkedin #datamining #datascience #humans #machines #behaviour #datacentric #ai #machinelearning #datacommunity #datageeks #naas #naastalks,16,"📺, 👉",2,https://lnkd.in/gfyPSEe,1,🎯 Mark Freeman II,,Video (external),🌎🔗Making sense of LinkedIn data: how Mark used Naas to uncover key insights?,https://www.youtube.com/watch?v=NjUhb92i9eM,,https://media-exp2.licdn.com/dms/image/sync/C5627AQGOJIeJY5V1mA/articleshare-shrink_800/0/1657112619545?e=1657803600&v=beta&t=GVn3sCGL6M5DlgUcEVg245oXHJ5Nh5_O4n8AWYkFmQ4,,,,https://www.linkedin.com/feed/update/urn:li:activity:6825859471626121216,279,1,5,0,0.021505376344086,2022-08-18 08:40:14
+6825805581144612865,2021-07-27 15:14:27,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,🧨 👿  What's wrong with Data Projects? ,"🧨 👿  What's wrong with Data Projects? 
+Join us in 45min for a conversation with Jerome Gransac    🇨🇭🇬🇧 🇪🇺
+
+We will talk about how most of the data projects fail because they don't focus on delivering value to the business ASAP
+
+And how #DataOps might be the missing piece of the puzzle.
+
+✅ Let's bridge the gap between Business and Technical teams. 
+
+Connect on this Google meet link to attend => https://lnkd.in/dJs2d4p?
+
+#data #dataops #devops #agile #businesteam #technicalteam #dataprojects #bigdata #datamining #dataanalysis #businesvalue #cloud #analytics #business #technology #developer #experience #project #ai #quality #bank #engineer #user #valuecreation #value #dataassets #naas #naastalks",690,#DataOps #data #dataops #devops #agile #businesteam #technicalteam #dataprojects #bigdata #datamining #dataanalysis #businesvalue #cloud #analytics #business #technology #developer #experience #project #ai #quality #bank #engineer #user #valuecreation #value #dataassets #naas #naastalks,29,"🧨, 👿, ✅",3,https://lnkd.in/dJs2d4p,1,Jerome Gransac    🇨🇭🇬🇧 🇪🇺   ,,Article,Meet,https://meet.google.com/xih-qged-xgn,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6825805581144612865,263,1,6,0,0.026615969581749,2022-08-18 08:40:14
+6824035172560842752,2021-07-22 17:59:29,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,Key learnings from today’s 🎙Naas talk with the amazing Mark Freeman II on LinkedIn #data #analytics ,"Key learnings from today’s 🎙Naas talk with the amazing Mark Freeman II on LinkedIn #data #analytics 
+
+Summarized brilliantly by Alyssa Fedgo, MPH 🤙🌎💚
+
+ #leadership #kudos #ai # #artificialintelligence #machinelearning #success #failure #iteration #python #github #datascience #eachoneteachone #tribeframework",304,#data #analytics #leadership #kudos #ai #artificialintelligence #machinelearning #success #failure #iteration #python #github #datascience #eachoneteachone #tribeframework,15,"🎙, 🤙, 🌎, 💚",4,,0,"🎯 Mark Freeman II, Alyssa Fedgo, MPH",,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6824035172560842752,442,1,10,0,0.0248868778280542,2022-08-18 08:40:14
+6821849299912159232,2021-07-16 17:13:36,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,Everybody is welcome 🤗💚🌎,Everybody is welcome 🤗💚🌎,24,,0,"🤗, 💚, 🌎",3,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6821849299912159232,191,0,4,0,0.0209424083769633,2022-08-18 08:40:14
+6820245625507061761,2021-07-12 07:01:11,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,Weekly progress update:,"Weekly progress update:
+
+- Spotted improvements to Naas manager for better UX
+- Onboarded 4 new contributors
+- Validated OKR for Q3 2021 with the core team
+
+
+👉 Read the rest here:
+ https://lnkd.in/gneBSGy
+
+#buildinpublic #opensource #progress #update #team #ux",250,#buildinpublic #opensource #progress #update #team #ux,6,👉,1,https://lnkd.in/gneBSGy,1,,,Article,"naas.ai's progress update - July 11th, 2021 | Frontier",https://frontier.pioneer.app/posts/b9e4bd31-naas-ai-progress-update-july-11th-2021,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6820245625507061761,217,0,6,0,0.0276497695852534,2022-08-18 08:40:14
+6819543629317722112,2021-07-10 08:31:42,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,Welcome to the #community Oludolapo Oketunji 🌱🌎🤙,"Welcome to the #community Oludolapo Oketunji 🌱🌎🤙
+
+#pythonsnippets",63,#community #pythonsnippets,2,"🌱, 🌎, 🤙",3,,0,Oludolapo Oketunji,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6819543629317722112,1081,1,2,0,0.0027752081406105,2022-08-18 08:40:14
+6819543076764286976,2021-07-10 08:29:30,naas.ai,https://www.linkedin.com/company/70506391,1 year ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6819543076764286976,135,0,4,0,0.0296296296296296,2022-08-18 08:40:14
