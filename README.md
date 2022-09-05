@@ -47,6 +47,7 @@ Dashboards topics :
 - 37/ IT cost
 - 38/ IT issue management
 - 39/ Cyber security
+- 40/ Job market analysis
 
 
 ## Tools
