@@ -58,16 +58,16 @@ Dashboards topics :
 
 **Datasources:**
 - Gsheets to create the data model manually
-- (Faker)[https://github.com/joke2k/faker] to generate fake/synthetic data
+- [Faker](https://github.com/joke2k/faker) to generate fake/synthetic data
 
 
 ## How to contribute?
 
 1. Pick one dashboard topic
-1. Analyze the corresponding example in the "screenshots" folder
-2. Create a sub-folder in "dashboards" and create start documenting the dashboard outline
-3. Develop the layout corresponding to the outline
-4. Make a commit at each new step of your build (one graph → on commit)
+2. Analyze the corresponding example in the [screenshots](https://github.com/jupyter-naas/summer-dashboarding/blob/master/snapshots/slides.md) folder
+3. Create a sub-folder in "dashboards" and create start documenting the dashboard outline
+4. Develop the layout corresponding to the outline
+5. Make a commit at each new step of your build (one graph → on commit)
 
 
 

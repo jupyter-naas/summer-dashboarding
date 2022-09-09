@@ -1,0 +1,583 @@
+ACTIVITY_ID,PAGINATION_TOKEN,PUBLISHED_DATE,AUTHOR_NAME,AUTHOR_URL,SUBDESCRIPTION,TITLE,TEXT,CHARACTER_COUNT,TAGS,TAGS_COUNT,EMOJIS,EMOJIS_COUNT,LINKS,LINKS_COUNT,PROFILE_MENTION,COMPANY_MENTION,CONTENT,CONTENT_TITLE,CONTENT_URL,CONTENT_ID,IMAGE_URL,POLL_ID,POLL_QUESTION,POLL_RESULTS,POST_URL,VIEWS,COMMENTS,LIKES,SHARES,ENGAGEMENT_SCORE,DATE_EXTRACT
+6963437844417683456,dXJuOmxpOmFjdGl2aXR5OjY5NjM0Mzc4NDQ0MTc2ODM0NTYtMTY2MDIxMjk1NjUwMg==,2022-08-11 12:15:56+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,6 days ago,⏰ Save your time and schedule your notebook like a script!,"⏰ Save your time and schedule your notebook like a script!
+
+
+To schedule your Jupyter Notebook using Papermill in naas.ai, you just need to add this simple formula👇.
+
+import naas
+naas.scheduler.add(cron=""0 * * * *"") ← this cron argument is the standard syntax worldwide. It means every hour in that case.
+
+Press play ▶️ and your notebook will be sent to the Naas ""⚡️Production folder"".
+
+Every time your notebook is executed, a record will be stored in this folder so you can access it if it fails.
+
+Try now following this video: https://lnkd.in/erXctqWD
+
+Thanks, Caleb Keller for the inspiration for my post!
+
+Spread the open source love always 💚
+
+#opensource #jupyternotebook #papermill #script #datascience #jobs #buildinpublic #naaslife",721,#opensource #jupyternotebook #papermill #script #datascience #jobs #buildinpublic #naaslife,8,"⏰, 👇, ▶️, ⚡️, 💚",5,https://lnkd.in/erXctqWD,1,Caleb Keller,naas-ai,Video (external),How to schedule a Jupyter notebook? #lowcode #jupyternotebook #scheduling,https://www.youtube.com/watch?v=ONiILHFItzs,,https://media-exp1.licdn.com/dms/image/sync/C5627AQFEe7QWlgiEeA/articleshare-shrink_800/0/1660223406234?e=1661410800&v=beta&t=51NeqHX5StEjHWKMHWFH20YgkGuFPVjYONvaUfWEX3s,,,,https://www.linkedin.com/feed/update/urn:li:activity:6963437844417683456,1981,2,32,0,0.0172,2022-08-18 08:33:43
+6962356362257305600,dXJuOmxpOmFjdGl2aXR5OjY5NjIzNTYzNjIyNTczMDU2MDAtMTY1OTk1NTExMTA1Mw==,2022-08-08 12:38:31+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 week ago,📓 🐍 Make your Jupyter notebooks more interactive and user-friendly with IPyWidgets,"📓 🐍 Make your Jupyter notebooks more interactive and user-friendly with IPyWidgets
+
+
+Why do we use IPyWidgets?
+We wanted to create a form to set up tools directly in a notebook instead of having an extra step by using tools like Google Sheets Forms or TypeForms to get information from business users.
+
+So, we associated markdown text and IPyWidgets to create the form directly in a Jupyter Notebook and the result is pretty clean. 😎
+
+We have done a couple of examples to share with the open source community you can access in our GitHub repository 👉 : https://lnkd.in/eGfdHBys
+
+Thanks, ismail chihab 🙏🏻 for your first contribution to naas.ai templates!
+
+Spread the open source love! Don't forget to star the GitHub repository in the first comment, it will help a lot.
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #ipywidgets",863,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #ipywidgets,8,"📓, 🐍, 😎, 👉, 🙏🏻",5,https://lnkd.in/eGfdHBys,1,ismail chihab,[],Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQFHy15-R5WO1g/feedshare-shrink_2048_1536/0/1659955109468?e=1663804800&v=beta&t=_tdIg1qhmY8BDocNMlSmg9X8XoSujVNzBaTZP_x6jzo,,,,https://www.linkedin.com/feed/update/urn:li:activity:6962356362257305600,1571,0,18,0,0.0115,2022-08-18 08:33:43
+6961355483009949696,dXJuOmxpOmFjdGl2aXR5OjY5NjEzNTU0ODMwMDk5NDk2OTYtMTY1OTcxNjQ4Mjg2Mg==,2022-08-05 18:21:22+0200,Alice Bergont,https://www.linkedin.com/in/ACoAABLW7DYBwIGAQoKd0qNLDRz_dAxE-0oTJgI,1 week ago,"Automation promises significant cost, quality and speed improvements, but realizing those benefits requires an action plan by executive and IT leaders 📝 ","Automation promises significant cost, quality and speed improvements, but realizing those benefits requires an action plan by executive and IT leaders 📝 
+
+Discover 🔟 automation mistakes to avoid for your organization.
+
+#GartnerAPPS #Tech #Automation",245,#GartnerAPPS #Tech #Automation,3,"📝, 🔟",2,,0,,,Article,10 Automation Mistakes to Avoid,https://gtnr.it/3jRQK0d,,https://media-exp1.licdn.com/dms/image/sync/D4D34AQFMqAbPd2PuyQ/ugc-proxy-shrink_1280_800/0/1659624042620?e=1661410800&v=beta&t=psRgVKTtVooT1hw6LEVea3LKRiUuEhBTmzQYtn6VRjs,,,,https://www.linkedin.com/feed/update/urn:li:activity:6961355483009949696,0,0,0,0,0.0,2022-08-18 08:33:43
+6955528651635396608,dXJuOmxpOmFjdGl2aXR5OjY5NTU1Mjg2NTE2MzUzOTY2MDgtMTY1ODMyNzI1Nzk5NA==,2022-07-20 16:27:37+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,"⚡ If you want to start data science and Jupyter notebooks, I have a great plan for you!","⚡ If you want to start data science and Jupyter notebooks, I have a great plan for you!
+
+
+To help beginners starting in data science, I re-used some materials from our last educational program “CashStory Education”
+
+You will have unlimited access to a kit ""⚡ Get started with Naas"" with a lot of code examples to:
+➡️ Understand how Jupyter notebook works in “How to start with Jupyter 📓 ?”.
+➡️ Start coding in Python in “How to start with Python 🐍 ?”.
+➡️ Automate your task with naas.ai in “Naas Starter Pack 🚀"".
+
+To access this, create an account, it’s free: https://lnkd.in/gF3wwCzr
+
+Don’t hesitate to reach me if you have any questions or join the slack community (link in the first comment)!
+
+#data #datascience #jupyternotebook #python #opensource #community #buildinpublic #naaslife",774,#data #datascience #jupyternotebook #python #opensource #community #buildinpublic #naaslife,8,"⚡, ⚡, ➡️, 📓, ➡️, 🐍, ➡️, 🚀",8,https://lnkd.in/gF3wwCzr,1,,"cashstory, naas-ai",Image,,,,https://media-exp1.licdn.com/dms/image/C5622AQGCMCYeSgt3vQ/feedshare-shrink_2048_1536/0/1658327257300?e=1663804800&v=beta&t=p-7wXrk7ooAODsMkL7w9ahp_xbGdDMDollVbsZ0UFBg,,,,https://www.linkedin.com/feed/update/urn:li:activity:6955528651635396608,2235,4,17,0,0.0094,2022-08-18 08:33:43
+6953047950713368576,dXJuOmxpOmFjdGl2aXR5OjY5NTMwNDc5NTA3MTMzNjg1NzYtMTY1NzczNTgxMjgxNA==,2022-07-13 20:10:12+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,Naas + SharePoint = ❤️,"Naas + SharePoint = ❤️
+
+
+Now, Naas is connected with SharePoint!
+
+
+What can you do so far?
+✅ Get folder content
+✅ Download a file from your SharePoint to your local
+✅ Upload a file from your local to your SharePoint.
+
+What does that mean?
+👉 You can leverage your Excel files using the power of Python and create automation with naas.ai.
+
+
+Start now with the templates: https://lnkd.in/eE5ZZqsE
+
+
+Kudos to Maxime Jublou for creating the SharePoint driver!
+
+Spread the open-source love! Don't forget to star the GitHub repository. It will help a lot.
+
+#sharepoint #business #python #dataculture #jupyternotebook #naas #developer #lowcode #automation #datascience",638,#sharepoint #business #python #dataculture #jupyternotebook #naas #developer #lowcode #automation #datascience,10,"❤️, ✅, ✅, ✅, 👉",5,https://lnkd.in/eE5ZZqsE,1,Maxime Jublou,naas-ai,Article,"GitHub - jupyter-naas/awesome-notebooks: Ready to use data science templates, organized by tools to jumpstart your projects in minutes. 😎 published by the Naas community.",https://github.com/jupyter-naas/awesome-notebooks/tree/master/SharePoint,,https://media-exp1.licdn.com/dms/image/sync/C4E27AQFL8fq8DZLOqg/articleshare-shrink_800/0/1660557058495?e=1661410800&v=beta&t=V1FgXQtzPKsie47P-AHT5S5M32Hx3tNYwRnj8x0y7Wo,,,,https://www.linkedin.com/feed/update/urn:li:activity:6953047950713368576,1772,4,21,0,0.0141,2022-08-18 08:33:43
+6952252443288084480,dXJuOmxpOmFjdGl2aXR5OjY5NTIyNTI0NDMyODgwODQ0ODAtMTY1NzU0NjE0OTA2OQ==,2022-07-11 15:29:09+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,📧 If you are using Sendinblue for your email campaigns and you want to pull all your metrics out of it. We have templates for you!,"📧 If you are using Sendinblue for your email campaigns and you want to pull all your metrics out of it. We have templates for you!
+
+
+Thanks to Minura Punchihewa, we can already:
+✅ Get the number of emails opened
+✅ Get the number of emails sent
+✅ Get the number of spam reports
+✅ Get the number of undelivered emails
+And there are more to come...
+
+👉 Interested in any integration with your favorite tool? (👋 Notion, Airtable, PowerBI, Google Sheets, Google Data Studio)
+
+Please reach out by commenting or sending me a direct message!
+
+Here is all you can do with Sendinblue: https://www.sendinblue.com
+
+
+Templates are available on GitHub in the first comment. Thanks again Minura Punchihewa for your contribution 🙏🏻
+
+#opensourcecommunity #naas #buildinpublic #datascience #dataanalytics #python #marketanalysis #emails #data #dataculture #notion",825,#opensourcecommunity #naas #buildinpublic #datascience #dataanalytics #python #marketanalysis #emails #data #dataculture #notion,11,"📧, ✅, ✅, ✅, ✅, 👉, 👋, 🙏🏻",8,,0,"Minura Punchihewa, Minura Punchihewa","sendinblue, notionhq, airtable, sendinblue",Article,All Your Digital Marketing Tools in One Place - Sendinblue,https://www.sendinblue.com,,https://media-exp1.licdn.com/dms/image/sync/C4D27AQGbAyMh0i65WQ/articleshare-shrink_800/0/1660388100783?e=1661410800&v=beta&t=u2B0EP1pdh1Nf6I2szOzxIXFB8B11rkiQyug59bg88I,,,,https://www.linkedin.com/feed/update/urn:li:activity:6952252443288084480,1467,6,23,0,0.0198,2022-08-18 08:33:43
+6950488391608098816,dXJuOmxpOmFjdGl2aXR5OjY5NTA0ODgzOTE2MDgwOTg4MTYtMTY1NzEyNTU2NjM3Ng==,2022-07-06 18:39:26+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,⚡️📊 Do you want to learn how to create a data product with Jupyter Notebook and naas.ai framework?,"⚡️📊 Do you want to learn how to create a data product with Jupyter Notebook and naas.ai framework?
+
+A few weeks ago, we gave ourselves a month to create a data product that automates the aggregation and analysis of data from various social platforms and visualizes the results in a Notion dashboard.
+
+The objective was to:
+- do it because we needed to follow our own content
+- build it in public to show how Jupyter notebook Project Jupyter and naas.ai can be used to create data products.
+
+🗓 Tomorrow during our community call, we are going to share in detail how this product is working, so you can get inspired and maybe build one as well!
+
+If you are a business or a tech, feel free to join here 😇:
+https://lnkd.in/eE6ct3Bk
+
+#naas #jupyternotebook #github #linkedin #notion #dashboard #data #design #architecture #content #building #automation #analytics #kubernetes #aws",862,#naas #jupyternotebook #github #linkedin #notion #dashboard #data #design #architecture #content #building #automation #analytics #kubernetes #aws,15,"⚡️, 📊, 🗓, 😇",4,https://lnkd.in/eE6ct3Bk,1,,"project-jupyter, naas-ai",Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQEiOyH14dtQBQ/feedshare-shrink_2048_1536/0/1657125554093?e=1663804800&v=beta&t=3-iDRIoTUIikfxnlWNXbWstcjzTfYnBm66dewxLGNx4,,,,https://www.linkedin.com/feed/update/urn:li:activity:6950488391608098816,1713,2,20,0,0.0128,2022-08-18 08:33:43
+6950146857461288960,dXJuOmxpOmFjdGl2aXR5OjY5NTAxNDY4NTc0NjEyODg5NjAtMTY1NzA0NDEzODI4OQ==,2022-07-05 20:02:18+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,📊 Did you know you can create a visual KPI using Plotly?,"📊 Did you know you can create a visual KPI using Plotly?
+
+
+Sometimes, a single indicator with comparison is just enough to follow your performance.
+
+It allows to:
+✅ remember the most important numbers.
+✅ recognize if you’re not reaching an objective or goal.
+✅ take actions instantly to improve it.
+
+If you want to start building one, you must check out the Plotly documentation: https://lnkd.in/eD6PWna2 
+
+I will publish soon an example in our awesome notebooks repository on GitHub. Stay tuned!
+
+Feel free to share other tips! I am always happy to learn 😄 🙏
+
+Want more tips? Do not hesitate to like, comment, and share this post!
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #plotly #data #dataanalyst #python #kpis",730,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #plotly #data #dataanalyst #python #kpis,11,"📊, ✅, ✅, ✅, 😄, 🙏",6,https://lnkd.in/eD6PWna2,1,,,Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQGiQ-unS_DYIw/feedshare-shrink_2048_1536/0/1657044137622?e=1663200000&v=beta&t=ZE3S1VTW2D6hivBRLepxwTWQdK2wNhUxGCEpCV6TZRM,,,,https://www.linkedin.com/feed/update/urn:li:activity:6950146857461288960,2196,2,17,0,0.0087,2022-08-18 08:33:43
+6948301377668317184,dXJuOmxpOmFjdGl2aXR5OjY5NDgzMDEzNzc2NjgzMTcxODQtMTY1NjYwNDE0MTYxNA==,2022-06-30 17:49:01+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,🪄 Use Jupyter notebooks to building up data pipelines with ‘%run’ magic command in Python in no time.,"🪄 Use Jupyter notebooks to building up data pipelines with ‘%run’ magic command in Python in no time.
+
+
+🤔 Let’s suppose you are working on a project with several outputs (database, charts, etc..).
+
+👉 Rather than working on a single Jupyter notebook, you can split your code into various notebooks and create a “PIPELINE” notebook to execute your workflow with the '%run' Python 🐍 magic.
+
+
+It allows you to: 
+✅ make your notebooks more readable.
+✅ test and validate each notebook independently.
+✅ order your pipeline execution.
+✅ add new steps in no time.
+
+Did you know this?
+
+
+If you want to know more about it, please join our next community on the 7th of July 😇! 
+We are going to present you with a use case with our Naas Brand-Content Engine. (Link in the first comment!) 
+
+Want more tips? Do not hesitate to like, comment, and share this post! 
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #pandas #datetime #data #dataanalyst #python #magic #computing #work #project #datascience #content #community #brand #pipeline #database",1040,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #pandas #datetime #data #dataanalyst #python #magic #computing #work #project #datascience #content #community #brand #pipeline #database,21,"🪄, 🤔, 👉, 🐍, ✅, ✅, ✅, ✅, 😇",9,,0,,,Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQGdEgQvhzgsaw/feedshare-shrink_2048_1536/0/1656604134800?e=1662595200&v=beta&t=GkqYuNMMqlXZU3zYRhFXiYBBzdeg389xywbr0h907yU,,,,https://www.linkedin.com/feed/update/urn:li:activity:6948301377668317184,3911,4,38,0,0.0107,2022-08-18 08:33:43
+6947591561702473728,dXJuOmxpOmFjdGl2aXR5OjY5NDc1OTE1NjE3MDI0NzM3MjgtMTY1NjQzNDkwODI5OQ==,2022-06-28 18:48:28+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,"✏️ Are you creating content on your LinkedIn profile and company page? What if you could analyze your engagements and more, using Notion?","✏️ Are you creating content on your LinkedIn profile and company page? What if you could analyze your engagements and more, using Notion?
+
+
+2 weeks ago, we started a challenge to create a product in 1 month to gather data from your social media platforms.
+
+
+The challenge was both to:
+- Create a product that could be useful for anyone who wants to follow their social metrics
+- Build up a data product with only the knowledge of Jupyter notebooks Project Jupyter and naas.ai.
+
+
+Today, we almost completed V0 on LinkedIn. 
+Below is what you can get so far for your LinkedIn profile and company page:
+
+🧑‍🤝‍🧑 Evolution and list of connections/followers by month.
+📈 Number of posts published, views, likes, comments, engagements, and engagement rate by month.
+🌟 Top-performing post, top fans (people who engaged the most with you) this month.
+✋ New fans by post to engage in a conversation based on their interest.
+☀️ Views reach by weekday and hours to catch your best posting timing!
+And much more…
+
+Remember that, this product will be open-source and FREE to use! All your feedbacks are more than welcome!
+
+If you want to know more about it, please like or comment or connect with me directly 🙏.
+
+
+We are organizing an event about it. See you soon!
+
+Stay tuned! 😎
+
+#data #socialmedia #linkedin #project #buildinpublic #naaslife #dataanalysis #datascience #plotly #notion #dashboard",1351,#data #socialmedia #linkedin #project #buildinpublic #naaslife #dataanalysis #datascience #plotly #notion #dashboard,11,"✏️, 🧑‍🤝‍🧑, 📈, 🌟, ✋, ☀️, 🙏, 😎",8,,0,,"notionhq, project-jupyter, naas-ai",Image,,,,https://media-exp1.licdn.com/dms/image/C4E22AQFK5Nu_TCEkGw/feedshare-shrink_2048_1536/0/1656434902893?e=1662595200&v=beta&t=fkI5dCpKk7P2cjvHCezW49zG7DUH4cCXGyS2t5qWhd8,,,,https://www.linkedin.com/feed/update/urn:li:activity:6947591561702473728,2638,18,33,0,0.0193,2022-08-18 08:33:43
+6942099568310280193,dXJuOmxpOmFjdGl2aXR5OjY5NDIwOTk1NjgzMTAyODAxOTMtMTY1NTEyNTUxNTA0Mg==,2022-06-13 15:05:15+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,How old do you look... to a computer? 👀,"How old do you look... to a computer? 👀
+
+
+According to the AI model, I look like I am between 30 and 39 😅.
+👉 How do I know?
+Thanks to Nikolaj Groeneweg, I just ran a template on naas.ai and get the result in 1 minute.
+
+👉 What does this template do?
+This notebook estimates a person's age and gender-based on their LinkedIn profile picture.
+
+👉 Do you want to try it? 
+Here is the link to the template: https://lnkd.in/evSpr9vd
+
+
+Once again, thank you for sharing your amazing work Nikolaj Groeneweg 😇!  You make IA looks much more simple with this template!
+
+Don't hesitate to like, comment, and share his post!
+#ai #naas  #datascience  #dataanalytics  #awesomenotebooks #buildinpublic  #machinelearning  #ml #ia",694,#ai #naas #datascience #dataanalytics #awesomenotebooks #buildinpublic #machinelearning #ml #ia,9,"👀, 😅, 👉, 👉, 👉, 😇",6,https://lnkd.in/evSpr9vd,1,"Nikolaj Groeneweg, Nikolaj Groeneweg",naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6942099568310280193,698,2,6,0,0.0115,2022-08-18 08:33:43
+6941032786308833280,dXJuOmxpOmFjdGl2aXR5OjY5NDEwMzI3ODYzMDg4MzMyODAtMTY1NDg3MTE3NDM5NQ==,2022-06-10 16:26:14+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,⚙️ Make your chart more business ready with a company logo with Plotly! ,"⚙️ Make your chart more business ready with a company logo with Plotly! 
+
+
+If you work with Python, Plotly is the best library to create a nice chart!
+
+The problem is that examples in the documentation do not provide chart business ready for companies. (Jérémy Ravenel 😉)
+You need to improve it by adding:
+➡️ A white background
+➡️ A title
+➡️ A legend
+👉 And what about adding your company logo?
+
+
+Once your graph is created, add the function `fig.add_layout_image()` and set the parameters:
+✅ Add your logo URL in `source`
+✅ Setup your logo size in `sizex` and `sizey`
+✅ Play with the parameters `x` and `y` to display your logo on the top left corner.
+
+
+Here is the documentation to dig in: https://lnkd.in/e3eU-JHK
+
+Did you know this?
+
+
+Next week, I will publish a template on naas.ai about this use case.
+Feel free to share other tips! I am always happy to learn 😄 🙏
+
+Want more tips? Do not hesitate to like, comment and share this post!
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #plotly #layout #data #datavisualization #business",1037,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #plotly #layout #data #datavisualization #business,11,"⚙️, 😉, ➡️, ➡️, ➡️, 👉, ✅, ✅, ✅, 😄, 🙏",11,https://lnkd.in/e3eU-JHK,1,Jérémy Ravenel,naas-ai,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQEoOrCzgWWIdw/feedshare-shrink_2048_1536/0/1654871172880?e=1660780800&v=beta&t=21LchhFLx8PxOkCXiffknKXCbvkOzG1iLP6FDlz0pU4,,,,https://www.linkedin.com/feed/update/urn:li:activity:6941032786308833280,1496,2,10,0,0.008,2022-08-18 08:33:43
+6940704109431820288,dXJuOmxpOmFjdGl2aXR5OjY5NDA3MDQxMDk0MzE4MjAyODgtMTY1NDc5MjgxMTcxOQ==,2022-06-09 18:40:11+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,Get in touch with more contacts through your LinkedIn post in less than 5 min!,"Get in touch with more contacts through your LinkedIn post in less than 5 min!
+
+
+Last week, I did my first poll on LinkedIn as I wanted to know more about the most used tools for content production.
+Result: 28 answers (thank you! 🙏). 
+But it's only a number... 🤔
+
+There's a whole bunch of data we can pull from it.
+On my side, I can connect with these people and start to help if they need to extract data out of this platform. 😇
+
+To do so, I extracted my result in a simple and straightforward table to find out more about them with their :
+- First name
+- Last name
+- Profile URL
+- Occupation
+- Poll result
+
+👉 If you are interested to know more about the result of your poll, get started with this template: https://lnkd.in/eBcuD256
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #company #post #feed #naas",848,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #company #post #feed #naas,12,"🙏, 🤔, 😇, 👉",4,https://lnkd.in/eBcuD256,1,,,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQHKrpN_Q5kDqQ/feedshare-shrink_2048_1536/0/1654792810492?e=1660176000&v=beta&t=BgSSvKPHkQtCTNY586EYIw1fqp6LmtpPU8GNniFWh5Y,,,,https://www.linkedin.com/feed/update/urn:li:activity:6940704109431820288,2588,5,23,0,0.0108,2022-08-18 08:33:43
+6938105183885250560,dXJuOmxpOmFjdGl2aXR5OjY5MzgxMDUxODM4ODUyNTA1NjAtMTY1NDE3MzE3OTU4Mg==,2022-06-02 14:32:59+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,"You’re becoming aware that I love to give tips and insights. Today, I need yours!","You’re becoming aware that I love to give tips and insights. Today, I need yours!
+
+
+I am trying to get a sense of what's the most used tool for content production and how you get data out of it. The idea is to know how we can help more professionals. 😇 
+
+
+Please take 5 sec of your time to :
+1) Vote on this poll
+2) @tag someone that you can help me know more about content production
+3) Contribute to the comments 👇
+
+
+#content #contentmarketing #contentcreators #linkedinfamily  #youtube #twitter #instagram #tiktok #reddit #medium #naaslife #opensource #buildinpublic",557,#content #contentmarketing #contentcreators #linkedinfamily #youtube #twitter #instagram #tiktok #reddit #medium #naaslife #opensource #buildinpublic,13,"😇, 👇",2,,0,,,Poll,,,,,6.938105181741957e+18,What tool do you use the most for your content production?,"{'LinkedIn': 20, 'Twitter': 4, 'YouTube': 2, 'Others - please comment 🙏': 2}",https://www.linkedin.com/feed/update/urn:li:activity:6938105183885250560,1716,5,5,0,0.0058,2022-08-18 08:33:43
+6936740037581520896,dXJuOmxpOmFjdGl2aXR5OjY5MzY3NDAwMzc1ODE1MjA4OTYtMTY1Mzg0NzcwMzMzNw==,2022-05-29 20:08:23+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,"✏️ If you want to pull all your LinkedIn posts metrics into a Notion database to analyze engagement and more, check out the tutorial video (in french 🇫🇷) made by Kevin Rosamont Prombo!","✏️ If you want to pull all your LinkedIn posts metrics into a Notion database to analyze engagement and more, check out the tutorial video (in french 🇫🇷) made by Kevin Rosamont Prombo!
+
+Thank you for sharing 🙏🏻
+
+https://lnkd.in/e2g8vA9G
+
+#opensourcecommunity #naas #buildinpublic #datascience #dataanalytics #python",309,#opensourcecommunity #naas #buildinpublic #datascience #dataanalytics #python,6,"✏️, 🙏🏻",2,https://lnkd.in/e2g8vA9G,1,Kevin Rosamont Prombo,[],Video (external),Récupérer des posts linkedin sur Notion,https://www.youtube.com/watch?v=sSBeRq6ge04,,https://media-exp2.licdn.com/dms/image/sync/D4E27AQGRGqBj-49VqA/articleshare-shrink_800/0/1656136902353?e=1657803600&v=beta&t=tUuUVE_YCBg_LdmlZ3GpnNGJUtYoyYDS-fmPnRGfh0A,,,,https://www.linkedin.com/feed/update/urn:li:activity:6936740037581520896,2697,5,39,0,0.0163,2022-08-18 08:33:43
+6935277311495688192,dXJuOmxpOmFjdGl2aXR5OjY5MzUyNzczMTE0OTU2ODgxOTItMTY1MzQ5ODk2MjI2Mg==,2022-05-25 19:16:02+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,What are you waiting for to start data science? Are you scared?,"What are you waiting for to start data science? Are you scared?
+The truth is…
+
+
+I was scared too. I knew it was an important thing to do in my career but I didn’t know where to start… Luckily I had a brother Jérémy Ravenel to help me succeed.
+Here are the tips he gave me to get started:
+
+✅ Focus on achievable goals
+Start working on a simple project that matters to you. Split the project into steps, and appreciate each time go to the next.
+
+✅ Organize your idea before doing anything
+For this, I suggest using the simple framework we use at Naas: Input/Model/Output
+
+✅ Google everything
+You can literally ask “How to read excel in python?” and start from there (sorry my dear 🇫🇷 compatriot, it works best in English).
+No need to have prior knowledge of any programming language.
+
+✅ Use Jupyter Notebook Project Jupyter, the most popular data science interface
+→ Before, there was only Anaconda distribution, on your computer (some tech setup required)
+→ Now, there is naas.ai, on your browser (no setup required) 🙈😇
+
+Naas comes with a bunch of templates that are ready to use, so it’s even easier to start now.
+Check out the link in the first comment,
+and let me know what you think?
+
+Thanks a lot 🙂🙏🏻
+
+#data #datascience #opensource #community #templates #buildinpublic #naaslife #jupyternotebook #python",1281,#data #datascience #opensource #community #templates #buildinpublic #naaslife #jupyternotebook #python,9,"✅, ✅, ✅, ✅, 🙈, 😇, 🙂, 🙏🏻",8,,0,Jérémy Ravenel,"project-jupyter, naas-ai",Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQHuNRWiTqw4yw/feedshare-shrink_2048_1536/0/1653498960721?e=1660176000&v=beta&t=hsJNNOVZRaUf8ivM4s9Bg8eeQw3lxhQ0Ae9MofEk3kU,,,,https://www.linkedin.com/feed/update/urn:li:activity:6935277311495688192,7192,6,61,0,0.0093,2022-08-18 08:33:43
+6933071554826166272,dXJuOmxpOmFjdGl2aXR5OjY5MzMwNzE1NTQ4MjYxNjYyNzItMTY1Mjk3MzA2ODg5Mw==,2022-05-19 17:11:08+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,Always happy to see data-scientist performing analysis on its LinkedIn posts stats... Especially when it's based on our templates! 😇,"Always happy to see data-scientist performing analysis on its LinkedIn posts stats... Especially when it's based on our templates! 😇
+
+Great work made by Megan Lieu ! Thank you sharing 🙏
+
+Don't wait any longer and start now with the same template : https://lnkd.in/gzJbF57G
+
+#naas #datascience #dataanalytics #linkedinposts #awesomenotebooks #buildinpublic",349,#naas #datascience #dataanalytics #linkedinposts #awesomenotebooks #buildinpublic,6,"😇, 🙏",2,https://lnkd.in/gzJbF57G,1,Megan Lieu,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6933071554826166272,1093,3,12,0,0.0137,2022-08-18 08:33:43
+6932377970628026368,dXJuOmxpOmFjdGl2aXR5OjY5MzIzNzc5NzA2MjgwMjYzNjgtMTY1MjgwNzcwNTUzMw==,2022-05-17 19:15:05+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,Are you sure your network growth strategy is working on LinkedIn? This template is a must to be on the safe side.,"Are you sure your network growth strategy is working on LinkedIn? This template is a must to be on the safe side.
+Here is why 👇
+
+
+This template gives you an overview of your LinkedIn connections over the last 12 months, making it easier to track your efforts in connecting with your LinkedIn network.
+
+Check the picture below. You can see my number of contacts increasing by 4x over the last 2 months. A **coincidence? Not really 🙃
+
+Not a magic trick! I merely used some naas.ai templates. Stay tuned. Soon you'll be able to use it too. 😎
+
+
+Start now: https://lnkd.in/ejki6Q79
+
+
+Spread the open-source love! Don't forget to star the GitHub repository in the first comment. It will help a lot.
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #network #connections #naas_drivers #analytics #csv #html #image #content #plotly",865,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #network #connections #naas #analytics #csv #html #image #content #plotly,17,"👇, 🙃, 😎",3,https://lnkd.in/ejki6Q79,1,,naas-ai,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQHT7XQdwPSuhg/feedshare-shrink_2048_1536/0/1652807704214?e=1660176000&v=beta&t=0WYRcriZtOwho0Xvwxtg-Wk4oOlHvAExwReoFi-hWdM,,,,https://www.linkedin.com/feed/update/urn:li:activity:6932377970628026368,2220,7,26,0,0.0149,2022-08-18 08:33:43
+6930914122612015106,dXJuOmxpOmFjdGl2aXR5OjY5MzA5MTQxMjI2MTIwMTUxMDYtMTY1MjQ1ODY5Njk3Mg==,2022-05-13 18:18:16+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,"If you have made some posts on LinkedIn this week, you must use this template.","If you have made some posts on LinkedIn this week, you must use this template.
+Here is why 👇
+
+This template sets up a weekly email with your the most interesting LinkedIn post engagement metrics; making it easier to track your efforts to engage your LinkedIn audience.
+
+Start now :  https://lnkd.in/esP6fWAd
+
+Thanks Nikolaj Groeneweg 🙏🏻 for your amazing contribution to naas.ai templates! I helped motivate myself this week 💪
+
+Spread the open source love! Don't forget to star the GitHub repository in the first comment, it will help a lot.
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #tool #posts #engagement #metrics #analytics #automation #email #naas #notification",720,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #tool #posts #engagement #metrics #analytics #automation #email #naas #notification,17,"👇, 🙏🏻, 💪",3,https://lnkd.in/esP6fWAd,1,Nikolaj Groeneweg,naas-ai,Image,,,,https://media-exp2.licdn.com/dms/image/C4E22AQH_XPJAay903g/feedshare-shrink_2048_1536/0/1652458696164?e=1660176000&v=beta&t=z1A-_ndPmPkqpsjhUuKhEVGqxsFzImfLo-5qe44DYxQ,,,,https://www.linkedin.com/feed/update/urn:li:activity:6930914122612015106,2116,3,33,0,0.017,2022-08-18 08:33:43
+6930560594953564161,dXJuOmxpOmFjdGl2aXR5OjY5MzA1NjA1OTQ5NTM1NjQxNjEtMTY1MjM3NDQwOTQwMA==,2022-05-12 18:53:29+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 month ago,⚙️ Managing DateTime in data is a pain in the a🍑🍑,"⚙️ Managing DateTime in data is a pain in the a🍑🍑
+
+If you work with Python, DateTime format is your best friend!
+
+With a simple date, you can analyse your data weekly, monthly, quarterly, and beyond.
+
+Mastering it can help you grow your business remarkably. But to achieve it, you need to know how to manipulate it.
+
+I personally spent time learning by myself with the help of many stackoverflow forums. Today, it is time to share some tips about Python with you. 👇
+
+
+First you need to master d3-time-format in Python.
+To do so, I learnt from this useful GitHub documentation https://lnkd.in/e3U3HXVz. We will learn that “2021-31-12” is “%Y-%m-%d”
+
+Then, simply use the formulas (notebooks template’s are available in first comment):
+- to convert a string date to a datetime object to another string date : strptime(date_string, current_format).strftime(new_format)
+- to convert pandas series to datetime series to another datetime format : df[col_date] = pd.to_datetime(df[col_date], current_format).dt.strftime(new_format)
+
+Did you know this?
+
+Feel free to share other tips! I am always happy to learn 😄 🙏
+
+
+Want more tips? Do not hesitate to like, comment and share this post! Don't forget to star the GitHub repository!
+
+
+#naaslife #opensource #buildinpublic  #datascience  #jupyternotebook  #python #pandas #datetime #data #dataanalyst",1314,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #python #pandas #datetime #data #dataanalyst,10,"⚙️, 🍑, 🍑, 👇, 😄, 🙏",6,https://lnkd.in/e3U3HXVz. We will learn that “2021-31-12” is “%Y-%m-%d,1,,,Article,"GitHub - d3/d3-time-format: Parse and format times, inspired by strptime and strftime.",https://github.com/d3/d3-time-format,,https://media-exp2.licdn.com/dms/image/sync/C4E27AQEw-mIX9eJrWg/articleshare-shrink_800/0/1656061644524?e=1657803600&v=beta&t=l1vkR8qP3Xx-M46zpWFy_SoWvTJdEe4wA1QYnrP8cRQ,,,,https://www.linkedin.com/feed/update/urn:li:activity:6930560594953564161,1435,6,15,0,0.0146,2022-08-18 08:33:43
+6929800090014404608,dXJuOmxpOmFjdGl2aXR5OjY5Mjk4MDAwOTAwMTQ0MDQ2MDgtMTY1MjE5MzA5MDkwMw==,2022-05-10 16:31:30+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,2 months ago,🖼Have you ever tried to analyze your LinkedIn posts metrics in Notion?,"🖼Have you ever tried to analyze your LinkedIn posts metrics in Notion?
+
+You are posting regularly on LinkedIn, but you don’t really follow your posts’ impact and engagement. That’s because:
+
+❌ You lack time
+❌ You don’t have the right tool to access YOUR DATA
+❌ You don’t want to spend money on it
+
+But now, there is a Naas template for that.
+
+✅ Gain time on analyzing your engagement
+✅ Get meaningful data on your post (engagement score, views, likes, comments and many more…)
+✅ Improve your posts’ reach
+
+Start now with the link in first comment !
+
+Don't forget to star the repository!
+Spread the open-source love! If you want to contribute to Naas? → Join our club of data science templates creators: https://bit.ly/3JA0ZBv
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #profile #post #feed #naas_drivers #notion #automation #analytics #naas #scheduler #content #plotly #html #csv #image",931,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode #linkedin #profile #post #feed #naas #notion #automation #analytics #naas #scheduler #content #plotly #html #csv #image,22,"🖼, ❌, ❌, ❌, ✅, ✅, ✅",7,,0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6929800090014404608,1970,6,24,0,0.0152,2022-08-18 08:33:43
+6922516610570194944,dXJuOmxpOmFjdGl2aXR5OjY5MjI1MTY2MTA1NzAxOTQ5NDQtMTY1MDQ1NjU3NDA4MQ==,2022-04-20 14:09:34+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,2 months ago,💡 Data science is about making data useful.,"💡 Data science is about making data useful.
+And there is a simple way to do that.
+
+Here is how :
+
+I have been working on data science projects for 5+ years, without even knowing it.
+I switched from Excel to Python to fix some problems I had, tested a lot of things, failed a lot of times.
+
+But I also learned that it’s not about coding, it’s about organizing ideas.
+
+Here is a simple framework that worked every single time.
+👇
+
+-> Define your inputs clearly
+List the tools you want to use, how to access them, what are the specific part of the data you want to get.
+-> Think about how to model
+Define the rules / transformation you want to apply to your data.
+-> Design the outputs
+A table, a graph, an Excel spreadsheet or an email...think very precisely about what is making sense for you or your audience.
+
+In short, if you work with data, keep this framework in mind :
+- Input
+- Model
+- Output
+It will help you see clear and stay focus!
+
+In a next post, I will show you a template on NBA bets done by one of our community members.
+
+I’m going to try posting more regularly so if you want to support : any like or comment is welcome.⚡️
+
+See you!
+
+PS: I’m not alone in this data science journey, the project I’m working on (naas.ai) is about making the field much more accessible to anyone.
+
+You can join us too, even if you are not a tech - I’m not 😉 (the link to our Slack is in the first comment)
+
+#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode",1461,#naaslife #opensource #buildinpublic #datascience #jupyternotebook #66daysofdata #100daysofcode,7,"💡, 👇, ⚡️, 😉",4,,0,,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6922516610570194944,2690,3,30,0,0.0123,2022-08-18 08:33:43
+6920746096889618433,dXJuOmxpOmFjdGl2aXR5OjY5MjA3NDYwOTY4ODk2MTg0MzMtMTY1MDAzNDQ1MDcyMg==,2022-04-15 16:54:10+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,2 months ago,Happy to help people in data science with naas.ai. ,"Happy to help people in data science with naas.ai. 
+
+Thanks for sharing Nikolaj Groeneweg 🙏",89,,0,🙏,1,,0,Nikolaj Groeneweg,naas-ai,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6920746096889618433,329,0,2,0,0.0061,2022-08-18 08:33:43
+6762685443919101952,dXJuOmxpOmFjdGl2aXR5OjY3NjI2ODU0NDM5MTkxMDE5NTItMTYxMjM0OTg1NDQ0OQ==,2021-02-03 11:57:34+0100,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 year ago,"Quand je parle de mon travail à mes proches, ils ne comprennent pas grand chose… 🙃","Quand je parle de mon travail à mes proches, ils ne comprennent pas grand chose… 🙃
+
+En effet,
+- faire de l'automatisation,
+- gérer des données,
+- et développer un produit pour y arriver,
+Au premier abord, c'est pas très parlant… 
+
+Et pourtant, c'est vraiment dans l'air du temps.
+Pour créer notre produit naas.ai, on s'est inspiré de Netflix: les boss de la gestion des données.
+
+Tous les contenus Netflix que vous voyez sur votre compte sont 100% personnalisés.
+Ils gèrent plus d'un trillion (1 000 000 000 000) d’évènements chaque jour pour créer une expérience unique pour chaque client.
+
+Vous voulez savoir comment ils font et comment vous en inspirer ?
+
+On vous explique ce jeudi à 13h !
+
+#netflix #jupyternotebook #data #python",715,#netflix #jupyternotebook #data #python,4,🙃,1,,0,,naas-ai,Image,,,,https://media-exp2.licdn.com/dms/image/C4D22AQGYCubQMhtMcg/feedshare-shrink_2048_1536/0/1612349853886?e=1660176000&v=beta&t=yaw9VQy4eWxdPMbn7nGtIycAcDfma-RC_y6YyNQa8rU,,,,https://www.linkedin.com/feed/update/urn:li:activity:6762685443919101952,2464,2,19,0,0.0085,2022-08-18 08:33:43
+6760161338296676352,dXJuOmxpOmFjdGl2aXR5OjY3NjAxNjEzMzgyOTY2NzYzNTItMTYxMTc0ODA2MDc3NA==,2021-01-27 12:47:40+0100,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 year ago,"Do it yourself ! Automatisez le suivi de votre cash avec Qonto, c'est par ici !","Do it yourself ! Automatisez le suivi de votre cash avec Qonto, c'est par ici !
+
+Pas besoin d'être data-scientist 👨‍💻, on a tout préparé pour vous. 
+
+Il vous suffira de suivre la vidéo et le tour est joué !
+
+
+Voici les 4 étapes pour y arriver :
+1-  Inscrivez sur Naas, c'est gratuit !
+2-  Déposez les templates dans votre Naas
+3-  Modifier le lien url de vos données dans Excel
+4-  Envoyez-vous un email automatisé
+
+
+Pour en savoir plus et personnaliser le suivi de votre cash sans être un geek, rejoignez-nous pour notre 3ème masterclass trésorerie ce jeudi !
+
+https://lnkd.in/dUJ9J-T
+
+#qonto #api #python",588,#qonto #api #python,3,👨‍💻,1,https://lnkd.in/dUJ9J-T,1,,qonto,Video (external),Automatiser votre relevé de compte augmenté en 5 min 🚀,https://youtu.be/_wPhNk5MEUY,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQEBOQLzwSZlRQ/articleshare-shrink_800/0/1656525949776?e=1657803600&v=beta&t=8mVFIMZ0kowLK4QLvSWbqZs6b6lL6kmu9cIb1jV_XFE,,,,https://www.linkedin.com/feed/update/urn:li:activity:6760161338296676352,1592,4,25,0,0.0182,2022-08-18 08:33:43
+6757251421881548800,dXJuOmxpOmFjdGl2aXR5OjY3NTcyNTE0MjE4ODE1NDg4MDAtMTYxMTA1NDI4MjYzNQ==,2021-01-19 12:04:42+0100,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 year ago,"Do it yourself ! Pour suivre ses comptes bancaires, Excel c'est bien mais avec Python c'est encore mieux 🔨 !","Do it yourself ! Pour suivre ses comptes bancaires, Excel c'est bien mais avec Python c'est encore mieux 🔨 !
+
+Voici les 5 étapes pour y arriver :
+
+1- Commencez par le design dans Excel: axe de temporalité (période d'analyse), périmètre (listes des comptes) et choisissez les visuels les plus pertinents.
+
+2- Récupérez vos données via API avec Python et les formules low-code de Naas.ai (www.naas.ai).
+
+3- Enrichissez vos flux avec vos propres règles pour construire le niveau d'analyse qui vous convient.
+
+4- Créez votre flux d'automatisation complet afin de recevoir un brief quotidien sur votre situation cash, tous les jours par email.
+
+5- Rejoignez notre masterclass gratuite avec le lien en commentaire 😉.
+
+#design #excel #python #datascience #training
+
+https://lnkd.in/dTrqH4F",766,#design #excel #python #datascience #training,5,"🔨, 😉",2,https://lnkd.in/dTrqH4F,1,,,Video (external),Créer un relevé de compte augmenté - L'essentiel en 3min 🥤,https://youtu.be/3km-NDxWCqI,,https://media-exp2.licdn.com/dms/image/sync/C4D27AQFKJigxhOnSsQ/articleshare-shrink_800/0/1656525958553?e=1657803600&v=beta&t=j-QFKH_Qk2YEg5u6XeW-XfNfPIPf2I3bNoEsc5pVQiA,,,,https://www.linkedin.com/feed/update/urn:li:activity:6757251421881548800,2905,12,44,0,0.0193,2022-08-18 08:33:43
+6752541502989197312,dXJuOmxpOmFjdGl2aXR5OjY3NTI1NDE1MDI5ODkxOTczMTItMTYwOTkzMTM1MDQ2NQ==,2021-01-06 12:09:10+0100,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 year ago,Vous en avez marre d’aller exporter vos relevés bancaires ou de les saisir à la main pour gérer votre trésorerie ?,"Vous en avez marre d’aller exporter vos relevés bancaires ou de les saisir à la main pour gérer votre trésorerie ?
+
+
+Pour l'avoir fait en tant que trésorier d'asso, je devais attendre de recevoir le courrier pour saisir les flux dans un Excel, l'enfer…
+
+Aujourd'hui, pas mal de choses ont changé, mais il faut toujours :
+- récupérer son identifiant, mot de passe, et autres codes envoyés par sms selon le niveau de sécurité
+- se connecter sur sa plateforme bancaire
+- trouver le bon endroit où l’on peut exporter ses données
+- une fois trouvé, on ne peut souvent pas récupérer beaucoup de données d’un coup…
+- et quand on finit par récupérer cette donnée elle ne ressemble à rien 🤮 !
+
+On continue donc de passer des heures sur Excel pour enfin y voir clair…
+
+Vous êtes d’accord qu’on ne devrait pas avoir à galérer comme ça 🛑 ?
+
+Des solutions existent pour récupérer ces données (via API) et automatiser son analyse (via Python et les notebooks).
+
+Avec mon frère Jérémy Ravenel (qui s'y connait ""un peu""), on a bossé sur une masterclasse gratuite pour vous partager nos tips et techniques.
+
+Elle sera découpée en 4 sessions sur le mois de Janvier.
+
+Vous voulez en savoir plus ?
+
+Inscrivez vous à notre masterclasse avec le lien ci-dessous : https://lnkd.in/ddmP5Cs
+
+#python #api",1252,#python #api,2,"🤮, 🛑",2,https://lnkd.in/ddmP5Cs,1,Jérémy Ravenel,[],Article,Education - CashStory,https://education.cashstory.com/cashisking,,https://media-exp2.licdn.com/dms/image/sync/C5627AQH_TSAvgZbVKg/articleshare-shrink_800/0/1656077342497?e=1657803600&v=beta&t=590dStIr-Tqt9vAFoE7DKaKlgCSSppl0ij2fO8s2yTY,,,,https://www.linkedin.com/feed/update/urn:li:activity:6752541502989197312,1993,6,19,0,0.0125,2022-08-18 08:33:43
+6729737309060644864,dXJuOmxpOmFjdGl2aXR5OjY3Mjk3MzczMDkwNjA2NDQ4NjQtMTYwNDQ5NDQwNjk1MQ==,2020-11-04 13:53:26+0100,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,1 year ago,"Dans ma vie professionnelle, je n'ai jamais aimé 😤 :","Dans ma vie professionnelle, je n'ai jamais aimé 😤 :
+- faire des tâches répétitives 
+- passer du temps sur une tache sans valeur ajoutée
+- finir tard (et louper les happy hours 🍻)
+
+Alors, je me suis mis à automatiser mon travail.
+J'ai démarré sur Excel, puis VBA et enfin Python 🐍
+
+Evidemment, je n'ai pas appris ça tout seul, il a fallu :
+- de bons mentors*
+- beaucoup de recherches sur internet
+- et plus de 4 ans de mise en pratique chez CashStory
+
+Aujourd'hui, toute cette expérience et méthode, on souhaite la partager avec vous.
+
+C'est pourquoi, on a décidé de créer notre parcours de formation.
+
+Au programme : optimiser l'usage d'Excel, passer d'Excel à Python, scripting sur des Jupyter notebooks (utilisé à 99% dans la data-science).
+
+La première promo a déjà commencé et ils en sont très heureux 🎓 !
+
+Hâte de rencontrer les suivants !
+
+Voici notre première vidéo sur le tableau de bord Excel :
+https://lnkd.in/dgBdsDp
+
+Commentez si vous souhaitez le support Excel associé.
+
+*Merci Alexandre Parlange, Frédérique Venturi, Aude Gauthier, Jérémy Ravenel, 🚀 Martin DONADIEU et j'en passe… 😉
+",1069,,0,"😤, 🍻, 🐍, 🎓, 🚀, 😉",6,https://lnkd.in/dgBdsDp,1,"Alexandre Parlange, Frédérique Venturi, Aude Gauthier, Jérémy Ravenel, 🚀 Martin DONADIEU",cashstory,Video (external),⏰ Réaliser votre tableau de bord Excel en 15min,https://www.youtube.com/watch?v=Fmw0r2PrjTE,,https://media-exp2.licdn.com/dms/image/sync/C5627AQF6IseVP6DTnQ/articleshare-shrink_800/0/1656948759769?e=1657803600&v=beta&t=YNpRoNEaeV8mn4_qLBN6-9oR5TxVx0uRgMaKU_zVbDQ,,,,https://www.linkedin.com/feed/update/urn:li:activity:6729737309060644864,6850,24,77,0,0.0147,2022-08-18 08:33:43
+6656913392814698496,dXJuOmxpOmFjdGl2aXR5OjY2NTY5MTMzOTI4MTQ2OTg0OTYtMTU4NzEzMTgzMjMxNQ==,2020-04-17 15:57:12+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,2 years ago,"World Situation Room : Après un mois de confinement, on en est où ?","World Situation Room : Après un mois de confinement, on en est où ?
+
+Pour commencer merci pour vous nombreux retours, plus de 13 000 visiteurs pour 100 000 pages vues !
+
+Pour y voir plus clair, des nouvelles améliorations sont disponibles : https://imf.to/WRSFR
+
+- Visualisation de la situation en France, par région et par département, DOM-TOM
+- Simplification de la partie économique en y ajoutant des vues synthétiques...
+Et encore plus à venir dans les prochaines semaines…, des cartographies et de l’analyse prédictive…
+
+Un grand merci à Carlos G., Marco Micozzi, Christophe Delmotte, Jordan Lorho, Clément Queste, Clément JANET-MAITRE, Jon BARANOFF, Quentin HELIOT, Juliette GENIN, Louise HERPSONT HORRILLO et bien d’autres pour leurs retours pertinents qui nous ont permis de faire évoluer cette application.
+
+Restez chez vous et prenez soin de vous,
+ 
+#restezchezvous #stayathome 
+CashStory
+Toucan Toco",894,#restezchezvous #stayathome,2,,0,,0,"Marco Micozzi, Christophe Delmotte, Jordan Lorho, Clément Queste, Clément JANET-MAITRE, Jon Baranoff, Juliette GENIN, Louise HERPSONT HORRILLO","cashstory, toucan-toco",Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQEQHZYvNVBwmw/feedshare-shrink_2048_1536/0/1587131831427?e=1660176000&v=beta&t=EVG5eF6k9XwKjXCprmHP8jAFVeK5ycZAJgQu3-2gk-w,,,,https://www.linkedin.com/feed/update/urn:li:activity:6656913392814698496,4510,6,46,0,0.0115,2022-08-18 08:33:43
+6650397549905739776,dXJuOmxpOmFjdGl2aXR5OjY2NTAzOTc1NDk5MDU3Mzk3NzYtMTU4NTU3ODMzNDMwMQ==,2020-03-30 16:25:34+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,2 years ago,"COVID-19, Economie : Des chiffres dans tous les sens mais on ne retient rien","COVID-19, Economie : Des chiffres dans tous les sens mais on ne retient rien
+ 
+ 
+Avec mon équipe, nous avons l’habitude de travailler
+avec des données compliquées pour les rendre simples et accessibles à tous.
+Nous avons remarqué que les données sanitaires et économiques n’étaient pas
+regroupées dans un même endroit. 
+ 
+C’est pour cela que nous avons lancé la semaine
+dernière, l’application publique : World Situation Room
+https://imf.to/WRSFR .
+ 
+Le but est de donner accès au plus grand nombre à des
+informations diffusées sur les différents canaux. Nous les regroupons et nous
+les restituions de manière simple pour tous.
+ 
+Avec plus de 3 000 visiteurs en 2 jours et grâce à
+vos nombreux retours, nous allons continuer à faire évoluer ce projet avec
+vous.
+ 
+Pour soutenir le projet, partagez à vos contacts et
+abonnez-vous,
+ 
+Restez chez vous et prenez soin de vous,
+ 
+#restezchezvous #stayathome 
+CashStory | Augmented Financial Analytics
+Toucan Toco
+",930,#restezchezvous #stayathome,2,,0,,0,,"cashstory, toucan-toco",Image,,,,https://media-exp2.licdn.com/dms/image/C5622AQHK5fgSXlAU0A/feedshare-shrink_2048_1536/0/1585578332094?e=1660176000&v=beta&t=gRXGB_0UcXGU5SlxzDy-YKu9bwoBbq-6c32UlOQx2AY,,,,https://www.linkedin.com/feed/update/urn:li:activity:6650397549905739776,4923,6,83,0,0.0181,2022-08-18 08:33:43
+6187602452842315776,dXJuOmxpOmFjdGl2aXR5OjYxODc2MDI0NTI4NDIzMTU3NzYtMTQ3NTIzOTM4NDg3NA==,2016-09-30 14:43:04+0200,Florent Ravenel,https://www.linkedin.com/in/ACoAABCNSioBW3YZHc2lBHVG0E_TXYWitQkmwog,6 years ago,,,0,[],0,[],0,[],0,,,Text,,,,,,,,https://www.linkedin.com/feed/update/urn:li:activity:6187602452842315776,0,0,1,0,0.0,2022-08-18 08:33:43
